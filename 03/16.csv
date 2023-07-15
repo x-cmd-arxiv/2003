@@ -1,0 +1,328 @@
+"astro-ph/0303353","Pedro Tavares Silva","P. T. Silva, O. Bertolami","Expected constraints on the generalized Chaplygin equation of state from
+  future supernova experiments and gravitational lensing statistics","Submitted to the Astrophysical Journal, 33 pages, 8 Figures, uses
+  aastex.cls. Changed for publication. Sections where the GCG is used as a dark
+  energy candidate have been eliminated, plus minor changes","Astrophys.J. 599 (2003) 829-838","10.1086/379362",,"astro-ph",,"  This paper aims to study the use of future SNAP data together with the result
+of searches for strong gravitational lenses in future large quasar surveys to
+constrain the Generalized Chaplygin Gas (GCG) model. The GCG is considered as a
+possible unification scheme for dark matter-dark energy. It is found that both
+experiments should be able to place important constraints on the model,
+especially when both tests are used together.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 17:52:31 GMT""},{""version"":""v2"",""created"":""Thu, 3 Jul 2003 23:43:40 GMT""}]","2009-11-07"
+"astro-ph/0303354","Eric Blackman","Eric G. Blackman (Univ. of Rochester), George B. Field (CFA)","Dynamical magnetic relaxation: A nonlinear magnetically driven dynamo","13 pages, in press, Physics of Plasmas","Phys.Plasmas 11 (2004) 3264","10.1063/1.1739236",,"astro-ph physics.plasm-ph",,"  A non-linear, time-dependent, magnetically driven dynamo theory which shows
+how magnetically dominated configurations can relax to become helical on the
+largest scale available is presented. Coupled time-dependent differential
+equations for large scale magnetic helicity, small scale magnetic helicity,
+velocity, and the electromotive force are solved. The magnetic helicity on
+small scales relaxes to drive significant large scale helical field growth on
+dynamical (Alfv\'en crossing) time scales, independent of the magnitude of
+finite microphysical transport coefficients, after which the growing kinetic
+helicity slows the growth to a viscously limited pace. This magnetically driven
+dynamo complements the nonlinear kinetic helicity driven dynamo; for the
+latter, the growing magnetic helicity fluctuations suppress, rather than drive,
+large scale magnetic helicity growth. A unified set of equations accommodates
+both types of dynamos.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 20:16:56 GMT""},{""version"":""v2"",""created"":""Wed, 17 Mar 2004 04:13:05 GMT""}]","2009-11-07"
+"astro-ph/0303355","Wen-Ching Lin","Wen-Ching Lin, Michael L. Norman and Greg L. Bryan","Temperature Bias in Measurements of The Hubble Constant Using The
+  Sunyaev-Zeldovich Effect","f1.eps needs color, and other figures keep black and white",,,,"astro-ph",,"  Measurements of the Hubble constant to distant galaxy clusters using the
+Sunyaev-Zeldovich effect are systematically low in comparison to values
+obtained by other means. These measurements usually assume a spherical
+isothermal $\beta$ model for the intracluster medium (ICM). We present the
+results of a statistical analysis of {\em temperature bias} in $H_0$
+determinations in a sample of 27 numerically simulated X-ray clusters drawn
+from a $\Lambda$CDM model at z=0.5. We employ adaptive mesh refinement to
+provide high resolution (15.6 h$^{-1} kpc$) in cluster cores which dominate the
+X-ray and radio signals. Fitting synthetic X-ray and y-parameter maps to the
+standard isothermal beta model, we find a broad, skewed distribution in
+$f\equiv H_0(SZ)/H_0(actual)$ with a mean, median, and standard deviation of
+0.89, 0.83 and 0.32 respectively, where $H_0(SZ)$ is the value of $H_0$ derived
+by using Sunyaev-Zeldovich effect method and $H_0(actual)$ is the value used in
+the cosmological simulation. We find that the clusters' declining temperature
+profiles systematically lower estimates of $H_0$ by 10% to 20%. The declining
+temperature profile of our adiabatic system is consistent with the result
+including radiative cooling and supernovae feedback (Loken et al. 2002). We
+thereby introduce a non-isothermal $\beta$ model as an improvement. Applying
+the non-isothermal $\beta$ model to the refined sample with well-fitted
+temperature profile, the value of f improves 9% relative to the actual value.
+The study of the morphology and the clumping effects conclude that these two
+factors combine to induce scatter in f of $\pm$ 30 %.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 23:24:02 GMT""}]","2007-05-23"
+"astro-ph/0303357","Yongkyu Ko","Yongkyu Ko","Relativistic Hubble's law","11 pages, 2 figures",,,,"astro-ph",,"  Considering the hyperbolic nature of the universe, the Hubble's law and the
+inverse square laws such as, the Coulomb's law and Newton's gravitational law,
+should be modified in accordance with the special theory of relativity.
+Consequently there is no the Hubble's length, which might be the observable
+boundary of our universe, does not appear in point of view of the special
+theory of relativity, and the Newton's third law still hold in the special
+theory of relativity. Recent astronomical observations of type Ia supernovae
+support the modified Hubble's law which also leads a view that the cosmic
+microwave might come from extra-universes.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 09:38:19 GMT""}]","2007-05-23"
+"cond-mat/0303290","W. T. Grandy Jr.","W. T. Grandy","Time Evolution In Macroscopic Systems. I: Equations of Motion","15 pages",,"10.1023/B:FOOP.0000012007.06843.ed",,"cond-mat.stat-mech",,"  Time evolution of macroscopic systems is re-examined primarily through
+further analysis and extension of the equation of motion for the density matrix
+$\rho(t)$. Because $\rho$ contains both classical and quantum-mechanical
+probabilities it is necessary to account for changes in both in the presence of
+external influences, yet standard treatments tend to neglect the former. A
+model of time-dependent classical probabilities is presented to illustrate the
+required type of extension to the conventional time-evolution equation, and it
+is shown that such an extension is already contained in the definition of the
+density matrix.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 19:21:55 GMT""}]","2009-11-10"
+"cond-mat/0303291","W. T. Grandy Jr.","W.T. Grandy","Time Evolution In Macroscopic Systems. II: The Entropy","28 pages",,"10.1023/B:FOOP.0000012008.36856.c1",,"cond-mat.stat-mech",,"  The concept of entropy in nonequilibrium macroscopic systems is investigated
+in the light of an extended equation of motion for the density matrix obtained
+in a previous study. It is found that a time-dependent information entropy can
+be defined unambiguously, but it is the time derivative or entropy production
+that governs ongoing processes in these systems. The differences in physical
+interpretation and thermodynamic role of entropy in equilibrium and
+nonequilibrium systems is emphasized and the observable aspects of entropy
+production are noted. A basis for nonequilibrium thermodynamics is also
+outlined
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 19:34:03 GMT""}]","2009-11-10"
+"cond-mat/0303292","Daniel Julio Garcia","D. J. Garcia (1), K. Hallberg (1), C. D. Batista (2), S. Capponi (3),
+  D. Poilblanc (3), M. Avignon (4) and B. Alascio (1) ((1) Centro Atomico
+  Bariloche and Instituto Balseiro, (2) Center for Nonlinear Studies and
+  Theoretical Division, Los Alamos National Laboratory, (3) Laboratoire de
+  Physique Quantique IRSAMC, Universite Paul Sabatier, (4) Laboratoire d'Etudes
+  des Proprietes Electroniques des Solides-CNRS)","Charge and spin inhomogeneous phases in the Ferromagnetic Kondo Lattice
+  Model","7 pages, 11 figures","Physical Review B 65, p. 134444 (2002)","10.1103/PhysRevB.65.134444",,"cond-mat.str-el",,"  We study numerically the one-dimensional ferromagnetic Kondo lattice. This
+model is widely used to describe nickel and manganese perovskites. Due to the
+competition between double and super-exchange, we find a region where the
+formation of magnetic polarons induces a charge-ordered state. This ordering is
+present even in the absence of any inter-site Coulomb repulsion. There is an
+insulating gap associated to the charge structure formation. We also study the
+insulator-metal transition induced by a magnetic field which removes
+simultaneously both charge and spin ordering.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 20:15:17 GMT""}]","2009-11-10"
+"cond-mat/0303293","Alessio Filippetti","Alessio Filippetti and Nicola A. Spaldin","Strong-correlation effects in Born effective charges","10 pages, 4 postscript figures",,"10.1103/PhysRevB.68.045111",,"cond-mat.mtrl-sci",,"  Large values of Born effective charges are generally considered as reliable
+indicators of the genuine tendency of an insulator towards ferroelectric
+instability. However, these quantities can be very much influenced by strong
+electron correlation and metallic behavior, which are not exclusive properties
+of ferroelectric materials. In this paper we compare the Born effective charges
+of some prototypical ferroelectrics with those of magnetic, non-ferroelectric
+compounds using a novel, self-interaction free methodology that improves on the
+local-density approximation description of the electronic properties. We show
+that the inclusion of strong-correlation effects systermatically reduces the
+size of the Born effective charges and the electron localization lengths.
+Furthermore we give an interpretation of the Born effective charges in terms of
+band energy structure and orbital occupations which can be used as a guideline
+to rationalize their values in the general case.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 03:24:00 GMT""}]","2009-11-10"
+"gr-qc/0303058","Kaiki Taro Inoue","Kaiki Taro Inoue, Takahiro Tanaka","Gravitational Waves from Sub-lunar Mass Primordial Black Hole Binaries -
+  A New Probe of Extradimensions","4 pages, 1 figure, typos corrected","Phys.Rev.Lett. 91 (2003) 021101","10.1103/PhysRevLett.91.021101",,"gr-qc astro-ph hep-ph",,"  In many braneworld models, gravity is largely modified at the electro-weak
+scale ~ 1TeV. In such models, primordial black holes (PBHs) with lunar mass M ~
+10^{-7}M_sun might have been produced when the temperature of the universe was
+at ~ 1TeV. If a significant fraction of the dark halo of our galaxy consists of
+these lunar mass PBHs, a huge number of BH binaries will exist in our
+neighborhood. Third generation detectors such as EURO can detect gravitational
+waves from these binaries, and can also determine their chirp mass. With a new
+detector designed to be sensitive at high frequency bands greater than 1 kHz,
+the existence of extradimensions could be confirmed.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 02:42:37 GMT""},{""version"":""v2"",""created"":""Sun, 27 Jul 2003 05:48:23 GMT""}]","2009-11-10"
+"hep-ph/0303135","Prasanta Kumar Das","Prasanta Kumar Das and Biswarup Mukhopadhyaya","Higgs pair production due to a radion resonance in Randall-Sundrum
+  model: prospects at the Large Hadron Collider","15 pages, latex, 4 eps figures",,,,"hep-ph",,"  We consider Higgs pair production at the Large Hadron Collider (LHC) in a
+Randall-Sundrum scenario containing a radion field. It is shown that the
+enhanced effective coupling of the radion to gluons, together with
+contributions from a low-lying radion pole, can provide larger event rates
+compared to most new physics possibilities considered so far. We present the
+results for both an intermediate mass Higgs and a heavy Higgs, with a detailed
+discussion of the background elimination procedure.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 05:09:00 GMT""}]","2007-05-23"
+"hep-th/0303142","Carlos A. S. Almeida","M. H. Pacheco, R. R. Landim, and C. A. S. Almeida","One-dimensional Dirac oscillator in a thermal bath","4 pages, 3 figures, to appear in Physics Letters A","Phys.Lett. A311 (2003) 93-96","10.1016/S0375-9601(03)00467-5",,"hep-th quant-ph",,"  We analyze the one-dimensional Dirac oscillator in a thermal bath. We found
+that the heat capacity is two times greater than the heat capacity of the
+one-dimensional harmonic oscillator for higher temperatures.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 03:06:38 GMT""}]","2009-11-10"
+"hep-th/0303143","Ahmed Jellal","A. Jellal, E.H. Saidi, H.B. Geyer and R.A. Roemer","A Matrix Model for Fractional Quantum Hall States","to be published in the Proceedings (J. Phys. Soc. Japan) of
+  Localisation 2002 Conference, Tokyo, Japan","J.Phys.Soc.Jap. 72 (2003) A127","10.1143/JPSJS.72SA.127",,"hep-th cond-mat",,"  We have developed a matrix model for FQH states at filling factor
+\nu_{k_1k_2} going beyond the Laughlin theory. To illustrate our idea, we have
+considered an FQH system of a finite number N=(N_{1}+N_{2}) of electrons with
+filling factor \nu_{k_{1}k_{2}} = \nu_{p_{1}p_{2}}=\frac{p_{2}}{p_{1}p_{2}-1};
+p_{1} is an odd integer and p_{2} is an even integer. The \nu_{p_{1}p_{2}}
+series corresponds just to the level two of the Haldane hierarchy; it recovers
+the Laughlin series \nu_{p_{1}} =\frac{1}{p_{1}} by going to the limit p_{2}
+large and contains several observable FQH states such as \nu = 2/3, 2/5, >....
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 15:10:35 GMT""}]","2017-01-25"
+"math-ph/0303039","Piotr G. Grinevich","P.G.Grinevich (1), S.P.Novikov (1,2) ((1) L.D.Landau Institute for
+  Theoretical Physics, (2) University of Maryland at College Park)","Topological Phenomena in the Real Periodic Sine-Gordon Theory","LaTeX, 18 pages, 3 figures",,"10.1063/1.1588742",,"math-ph math.MP nlin.SI",,"  The set of real finite-gap Sine-Gordon solutions corresponding to a fixed
+spectral curve consists of several connected components. A simple explicit
+description of these components obtained by the authors recently is used to
+study the consequences of this property. In particular this description allows
+to calculate the topological charge of solutions (the averaging of the
+$x$-derivative of the potential) and to show that the averaging of other
+standard conservation laws is the same for all components.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 22:59:34 GMT""}]","2015-06-26"
+"math/0303184","Kengo Hirachi","Charles Fefferman, Kengo Hirachi","Ambient metric construction of Q-curvature in conformal and CR
+  geometries","14 pages, corrected typos and updated references","Math. Res. Lett. 10 (2003), no. 5-6, 819--832","10.4310/MRL.2003.v10.n6.a9",,"math.DG",,"  We give a geometric derivation of Branson's Q-curvature in terms of the
+ambient metric associated with conformal structures; it naturally follows from
+the ambient metric construction of conformally invariant operators and can be
+applied to a large class of invariant operators. This procedure can be also
+applied to CR geometry and gives a CR analog of the Q-curvature; it then turns
+out that the Q-curvature gives the coefficient of the logarithmic singularity
+of the Szego kernel of 3-dimensional CR manifolds.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 08:05:05 GMT""},{""version"":""v2"",""created"":""Thu, 21 Aug 2003 03:13:03 GMT""}]","2017-01-04"
+"math/0303186","Vladimir Peller","V.V. Peller and S.R. Treil","Very badly approximable matrix functions","27 pages",,,,"math.FA math.CA math.CO math.CT math.CV",,"  We study in this paper very badly approximable matrix functions on the unit
+circle $\T$, i.e., matrix functions $\Phi$ such that the zero function is a
+superoptimal approximation of $\Phi$. The purpose of this paper is to obtain a
+characterization of the continuous very badly approximable functions.
+  Our characterization is more geometric than algebraic characterizations
+earlier obtained in \cite{PY} and \cite{AP}. It involves analyticity of certain
+families of subspaces defined in terms of Schmidt vectors of the matrices
+$\Phi(\z)$, $\z\in\T$. This characterization can be extended to the wider class
+of {\em admissible} functions, i.e., the class of matrix functions $\Phi$ such
+that the essential norm $\|H_\Phi\|_{\rm e}$ of the Hankel operator $H_\Phi$ is
+less than the smallest nonzero superoptimal singular value of $\Phi$.
+  In the final section we obtain a similar characterization of badly
+approximable matrix functions.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 17:45:55 GMT""}]","2016-09-07"
+"math/0303187","David Benson","David Benson","Dickson invariants, regularity and computation in group cohomology",,,,,"math.GR math.AC math.RA",,"  In this paper, we investigate the commutative algebra of the cohomology ring
+$H^*(G,k)$ of a finite group $G$ over a field $k$. We relate the concept of
+quasi-regular sequence, introduced by Benson and Carlson, to the local
+cohomology of the cohomology ring. We give some slightly strengthened versions
+of quasi-regularity, and relate one of them to Castelnuovo--Mumford regularity.
+We prove that the existence of a quasi-regular sequence in either the original
+sense or the strengthened ones is true if and only if the Dickson invariants
+form a quasi-regular sequence in the same sense. The proof involves the notion
+of virtual projectivity, introduced by Carlson, Peng and Wheeler.
+  As a by-product of this investigation, we give a new proof of the
+Bourguiba--Zarati theorem on depth and Dickson invariants, in the context of
+finite group cohomology, without using the machinery of unstable modules over
+the Steenrod algebra.
+  Finally, we describe an improvement of Carlson's algorithm for computing the
+cohomology of a finite group using a finite initial segment of a projective
+resolution of the trivial module. In contrast to Carlson's algorithm, ours does
+not depend on verifying any conjectures during the course of the calculation,
+and is always guaranteed to work.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 18:58:57 GMT""}]","2007-05-23"
+"math/0303188","Alex Iosevich","L. Brandolini, S. Hofmann, and A. Iosevich","Sharp rate of average decay of the Fourier transform of a bounded set","10 pages. GAFA (to appear)",,,,"math.CA",,"  We prove that the spherical mean of the Fourier transform of the
+characteristic function of a bounded convex set (without any additional
+assumptions) or a bounded set with a C^{3/2} boundary decays at infinity at the
+same rate as the Fourier transform of the characteristic function of the ball.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 20:54:38 GMT""}]","2007-05-23"
+"math/0303189","Hans Schoutens","Hans Schoutens","Log-terminal singularities and vanishing theorems",,"J. Algebraic Geom. 14 (2005), 357-390",,,"math.AG math.AC math.RA",,"  Generalizing work of Smith and Hara, we give a new characterization of
+log-terminal singularities for finitely generated algebras over $\mathbb C$, in
+terms of purity properties of ultraproducts of characteristic $p$ Frobenii.
+  The first application is a Bout\^ot-type theorem for log-terminal
+singularities: given a pure morphism $Y\to X$ between affine $\mathbb
+Q$-Gorenstein varieties of finite type over $\mathbb C$, if $Y$ has at most a
+log-terminal singularities, then so does $X$. The second application is the
+Vanishing for Maps of Tor for log-terminal singularities: if $A\subset R$ is a
+Noether Normalization of a finitely generated $\mathbb C$-algebra $R$ and $S$
+is a finitely generated $R$-algebra with log-terminal singularities, then the
+natural morphism $\operatorname{Tor}^A_i(M,R) \to \operatorname{Tor}^A_i(M,S)$
+is zero, for every $A$-module $M$ and every $i\geq 1$. The final application is
+the Kawamata-Viehweg Vanishing Theorem for a connected projective variety $X$
+of finite type over $\mathbb C$ whose affine cone has a log-terminal vertex
+(for some choice of polarization). As a smooth Fano variety has this latter
+property, we obtain a proof of the following conjecture of Smith for quotients
+of smooth Fano varieties: if $G$ is the complexification of a real Lie group
+acting algebraically on a projective smooth Fano variety $X$, then for any
+numerically effective line bundle $\mathcal L$ on any GIT quotient $Y:=X//G$,
+each cohomology module $H^i(Y,\mathcal L)$ vanishes for $i>0$, and, if
+$\mathcal L$ is moreover big, then $H^i(Y,\mathcal L^{-1})$ vanishes for
+$i<\operatorname{dim}Y$.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 23:38:38 GMT""}]","2007-05-23"
+"math/0303190","Oblomkov Alexei","A.Oblomkov","Double affine Hecke algebras and Calogero-Moser spaces","26 pages, no figures",,,,"math.RT math-ph math.MP",,"  In this paper we prove that the spherical subalgebra $eH_{1,\tau}e$ of the
+double affine Hecke algebra $H_{1,\tau}$ is an integral Cohen-Macaulay algebra
+isomorphic to the center $Z$ of $H_{1,\tau}$, and $H_{1,\tau}e$ is a
+Cohen-Macaulay $eH_{1,\tau}e$-module with the property
+$H_{1,\tau}=End_{eH_{1,\tau}e}(H_{1,\tau}e)$. In the case of the root system
+$A_{n-1}$ the variety $Spec(Z)$ is smooth and coincides with the completion of
+the configuration space of the relativistic analog of the trigomonetric
+Calogero-Moser system. This implies the result of Cherednik that the module
+$eH_{1,\tau}$ is projective and all irreducible finite dimensional
+representations of $H_{1,\tau}$ are regular representation of the finite Hecke
+algebra.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 03:40:23 GMT""}]","2007-05-23"
+"math/0303191","Gary Gibbons","G.W. Gibbons","Gravitational Instantons, Confocal Quadrics and Separability of the
+  Schr\""odinger and Hamilton-Jacobi equations","10 pages Latex","Class.Quant.Grav.20:4401-4408,2003","10.1088/0264-9381/20/20/305","DAMTP 2003-25","math.DG hep-th",,"  A hyperk\""ahler 4-metric with a triholomorphic SU(2) action gives rise to a
+family of confocal quadrics in Euclidean 3-space when cast in the canonical
+form of a hyperk\""ahler 4-metric metric with a triholomorphic circle action.
+Moreover, at least in the case of geodesics orthogonal to the U(1) fibres, both
+the covariant Schr\""odinger and the Hamilton-Jacobi equation is separable and
+the system integrable.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 07:40:41 GMT""}]","2009-10-07"
+"math/0303192","Atsushi Nakayashiki","Atsushi Nakayashiki","The Chiral Space of Local Operators in SU(2)-Invariant Thirring Model","19 pages, typos are corrected, Accepted for publication in Comm.
+  Math. Phys","Commun.Math.Phys. 245 (2004) 279-296","10.1007/s00220-003-1013-3",,"math.QA math-ph math.MP",,"  The space of local operators in the SU(2) invariant Thirring model (SU(2)
+ITM) is studied by the form factor bootstrap method. By constructing sets of
+form factors explicitly we define a susbspace of operators which has the same
+character as the level one integrable highest weight representation of
+\hat{sl_2}. This makes a correspondence between this subspace and the chiral
+space of local operators in the underlying conformal field theory, the su(2)
+Wess-Zumino-Witten model at level one.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 10:13:07 GMT""},{""version"":""v2"",""created"":""Tue, 19 Aug 2003 05:11:51 GMT""}]","2009-11-10"
+"nlin/0303028","Gyu-Seung Shin","Gyu-Seung Shin","Interwoven basin structures of double logistic map at the edge of chaos","4 pages, 9 figures",,,,"nlin.PS nlin.CD",,"  The carpeting regularity of basin structures for simply doubled logistic map
+is studied. Examining the elementary structures of which global basin
+structures are composed, we found them to have a impressive interrelation which
+we call ""all in one and one in all"". Curves appearing in the basins and their
+expressions are also discussed.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 16:55:32 GMT""}]","2007-05-23"
+"nlin/0303029","Mahendra K. Verma","Mahendra K. Verma and Shishir Kumar","Large-Eddy Simulations of Fluid and Magnetohydrodynamic Turbulence Using
+  Renormalized Parameters","12 pages, 4 figures: Proper figures inserted","Pramana 63 (2004) 553-562","10.1007/BF02704483",,"nlin.CD astro-ph cond-mat",,"  In this paper a procedure for large-eddy simulation (LES) has been devised
+for fluid and magnetohydrodynamic turbulence in Fourier space using the
+renormalized parameters. The parameters calculated using field theory have been
+taken from recent papers by Verma [Phys. Rev. E, 2001; Phys. Plasmas, 2001]. We
+have carried out LES on $64^3$ grid. These results match quite well with direct
+numerical simulations of $128^3$. We show that proper choice of parameter is
+necessary in LES.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 18:03:47 GMT""},{""version"":""v2"",""created"":""Mon, 24 Mar 2003 19:14:22 GMT""}]","2009-11-10"
+"nlin/0303030","Govindan Rangarajan","Govindan Rangarajan, Yonghong Chen and Mingzhou Ding","Generalized Turing Patterns and Their Selective Realization in
+  Spatiotemporal Systems","9 pages, 3 figures","Physics Letters A, vol. 310, pp 415 - 422 (2003)","10.1016/S0375-9601(03)00447-X",,"nlin.PS nlin.CD",,"  We consider the pattern formation problem in coupled identical systems after
+the global synchronized state becomes unstable. Based on analytical results
+relating the coupling strengths and the instability of each spatial mode
+(pattern) we show that these spatial patterns can be selectively realized by
+varying the coupling strengths along different paths in the parameter space.
+Furthermore, we discuss the important role of the synchronized state (fixed
+point versus chaotic attractor) in modulating the temporal dynamics of the
+spatial patterns.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 11:34:06 GMT""}]","2009-11-10"
+"physics/0303062","Lawrence R. Pratt","D. Asthagiri, Lawrence R. Pratt, H. S. Ashbaugh","Absolute Hydration Free Energies of Ions, Ion-Water Clusters, and
+  Quasi-chemical Theory","8 pages, 1 figure",,"10.1063/1.1587122","LA-UR-03-1731","physics.chem-ph physics.bio-ph",,"  Experimental studies on ion-water clusters have provided insights into the
+microscopic aspects of hydration phenomena. One common view is that extending
+those experimental studies to larger cluster sizes would give the single ion
+absolute hydration free energies not obtainable by classical thermodynamic
+methods. This issue is reanalyzed in the context of recent computations and
+molecular theories on ion hydration, particularly considering the hydration of
+H$^+$, Li$^+$, Na$^+$, and HO$^-$ ions and thence the hydration of neutral ion
+pairs. The hydration free energies of neutral pairs computed here are in good
+agreement with experimental results, whereas the calculated absolute hydration
+free energies, and the excess chemical potentials, deviate consistently from
+some recently tabulated hydration free energies based on ion-water cluster
+data. We show how the single ion absolute hydration free energies are not
+separated from the potential of the phase in recent analyses of ion-water
+cluster data, even in the limit of large cluster sizes. We conclude that naive
+calculations on ion-water clusters ought to agree with results obtained from
+experimental studies of ion-water clusters because both values include the
+contribution, somewhat extraneous to the local environment of the ion, from the
+potential of the phase.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 17:00:43 GMT""}]","2009-11-10"
+"physics/0303063","Igor Frota de Vasconcelos","Igor F. Vasconcelos (University of Notre Dame), Isabelle Cantat
+  (Universite de Rennes 1), and James A. Glazier (Indiana University
+  Bloomington)","Dynamics and Topological Aspects of a Reconstructed Two-Dimensional Foam
+  Time Series Using Potts Model on a Pinned Lattice","31 pages, 20 Postscript figures Accepted in the Journal of
+  Computational Physics","J. Comp. Phys. 192 (1) 1-20 (2003)","10.1016/j.jcp.2003.06.001",,"physics.comp-ph",,"  We discuss a method to reconstruct an approximate two-dimensional foam
+structure from an incomplete image using the extended Potts mode with a pinned
+lattice we introduced in a previous paper. The initial information consists of
+the positions of the vertices only. We locate the centers of the bubbles using
+the Euclidean distance-map construction and assign at each vertex position a
+continuous pinning field with a potential falling off as $1/r$. We nucleate a
+bubble at each center using the extended Potts model and let the structure
+evolve under the constraint of scaled target areas until the bubbles contact
+each other. The target area constraint and pinning centers prevent further
+coarsening. We then turn the area constraint off and let the edges relax to a
+minimum energy configuration. The result is a reconstructed structure very
+close to the simulation. We repeated this procedure for various stages of the
+coarsening of the same simulated foam and investigated the simulation and
+reconstruction dynamics, topology and area distribution, finding that they
+agree to good accuracy.
+","[{""version"":""v1"",""created"":""Sat, 15 Mar 2003 18:04:11 GMT""},{""version"":""v2"",""created"":""Mon, 30 Jun 2003 21:22:00 GMT""}]","2015-06-26"
+"physics/0303064","Kasturi Basu","Kasturi Basu and Kopinjol Baishya","Brownian Motion: Theory and Experiment:: A simple Classroom Measurement
+  of the Diffusion Coefficient","5 pages, 4 figures","Resonance Vol. 8, No. 3, 71-80, March 2003",,,"physics.ed-ph",,"  Brownian motion is the perpetual irregular motion exhibited by small
+particles immersed in a fluid. Such random motion of the particles is produced
+by statistical fluctuations in the collisions they suffer with the molecules of
+the surrounding fluid. Brownian motion of particles in a fluid (like milk
+particles in water) can be observed under a microscope. Here we describe a
+simple experimental set-up to observe Brownian motion and a method of
+determining the diffusion coefficient of the Brownian particles, based on a
+theory due to Smoluchowski. While looking through the microscope we focus
+attention on a fixed small volume, and record the number of particles that are
+trapped in that volume, at regular intervals of time. This gives us a
+time-series data, which is enough to determine the diffusion coefficient of the
+particles to a good degree of accuracy.
+","[{""version"":""v1"",""created"":""Sun, 16 Mar 2003 11:55:14 GMT""}]","2007-05-23"

@@ -1,0 +1,564 @@
+"astro-ph/0304346","Edo Berger","E. Berger (Caltech)","Radio Afterglows of Gamma-Ray Bursts: Unique Clues to the Energetics and
+  Environments","6 pages, 4 figures. An invited talk, to appear in proceedings of the
+  ""Gamma-Ray Bursts in the Afterglow Era: 3rd Workshop"", ASPCS, in press",,,,"astro-ph",,"  Radio observations of gamma-ray burst (GRB) afterglows provide both
+complementary and unique diagnostics of the afterglow physics and environment
+of the burst. Here we concentrate on three unique aspects of GRB energetics and
+environments afforded by radio and submillimeter observations: the
+non-relativistic evolution of the fireball, the density profile of the
+circumburst medium, and the study of obscured star formation in GRB host
+galaxies.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 16:32:36 GMT""}]","2007-05-23"
+"astro-ph/0304347","Konstantin N. Borozdin","Vadim A. Arefiev (IKI RAN), William C. Priedhorsky (LANL), Konstantin
+  N. Borozdin (LANL)","Fast X-ray Transients and Their Connection to Gamma-Ray Bursts","36 pages, 8 figures","Astrophys.J. 586 (2003) 1238-1249","10.1086/367761","LA-UR-00-2268","astro-ph",,"  Fast X-ray transients (FXTs) with timescales from seconds to hours have been
+seen by numerous space instruments. We have assembled archival data from
+Ariel-5, HEAO-1 (A-1 and A-2), WATCH, ROSAT, and Einstein to produce a global
+fluence-frequency relationship for these events. Fitting the log N-log S
+distribution over several orders of magnitude to simple power law we find a
+slope of -1.0. The sources of FXTs are undoubtedly heterogeneous, the -1 power
+law is an approximate result of the summation of these multiple sources. Two
+major contributions come from gamma-ray bursts and stellar flares.
+Extrapolating from the BATSE catalog of GRBs, we find that the fraction of
+X-ray flashes that can be the X-ray counterparts of gamma-ray bursts is a
+function of fluence. Certainly most FXTs are not counterparts of standard
+gamma-ray bursts. The fraction of FXTs from non-GRB sources, such as magnetic
+stars, is greatest for the faintest FXTs. Our understanding of the FXT
+phenomenon remains limited and would greatly benefit from a large, homogeneous
+data set, which requires a wide-field, sensitive instrument.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 18:41:47 GMT""}]","2009-11-07"
+"astro-ph/0304348","Aristotle Socrates","Omer Blaes and Aristotle Socrates","Local Radiative Hydrodynamic and Magnetohydrodynamic Instabilities in
+  Optically Thick Media","55 pages, revised version accepted for publication by ApJ. New
+  appendix added justifying WKB analysis","Astrophys.J. 596 (2003) 509-537","10.1086/377637",,"astro-ph",,"  We examine the local conditions for radiative damping and driving of short
+wavelength, propagating hydrodynamic and magnetohydrodynamic (MHD) waves in
+static, optically thick, stratified equilibria. We show that so-called strange
+modes in stellar oscillation theory and magnetic photon bubbles are intimately
+related and are both fundamentally driven by the background radiation flux
+acting on compressible waves. We identify the necessary criteria for unstable
+driving of these waves, and show that this driving can exist in both gas and
+radiation pressure dominated media, as well as pure Thomson scattering media in
+the MHD case. The equilibrium flux acting on opacity fluctuations can drive
+both hydrodynamic acoustic waves and magnetosonic waves unstable. In addition,
+magnetosonic waves can be driven unstable by a combination of the equilibrium
+flux acting on density fluctuations and changes in the background radiation
+pressure along fluid displacements. We briefly describe the conditions under
+which these instabilities might be manifested in both main sequence stellar
+envelopes and accretion disks.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 20:59:34 GMT""},{""version"":""v2"",""created"":""Fri, 20 Jun 2003 20:25:31 GMT""}]","2009-11-07"
+"astro-ph/0304349","Martin Cohen","Martin Cohen, S. T. Megeath, Peter L. Hammersley, Fabiola Martin-Luis,
+  John Stauffer","Spectral Irradiance Calibration in the Infrared. XIII. ""Supertemplates""
+  and On-Orbit Calibrators for SIRTF's Infrared Array Camera (IRAC)","53 pages, Latex, AASTEX5 macros","Astron.J.125:2645-2663,2003","10.1086/374362",,"astro-ph",,"  We describe the technique used to develop on-orbit calibrators for IRAC and
+validate the method for either K0-M0III or A0-A5V stars. For SIRTF, the
+approach uses all available optical, NIR, and MIR photometry, and yields
+absolute spectra from UV to MIR. One set of stars is from Landolt's network of
+optical standards, the other from Carter-Meadows IR standards. Traceability to
+the Cohen-Walker- Witteborn framework of absolute photometry and spectra is
+assured. The method is based on using either ""supertemplates"" to represent the
+intrinsic shapes of the spectra of K0-M0IIIs from 1150A to 35 um, or Kurucz
+synthetic spectra for A0-5V stars. Each supertemplate/model is reddened
+according to a star's extinction and normalized by characterized optical
+photometry. This paper tests our ability to predict NIR (JHK) magnitudes from
+supertemplates or models constrained by Hippa- rcos/Tycho or precision
+ground-based optical data. We offer absolute calibrated spectra of 33 optical
+standards to demonstrate the viability of this technique for a set of IR
+calibrators 100-1000 times fainter than we have previously publ- ished. We
+calculate the absolute uncertainties associated with predicting IRAC mags for
+the faintest cool giant and hot dwarf in this new set of calibrators.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 23:11:02 GMT""}]","2008-11-26"
+"astro-ph/0304350","Martin Cohen","Martin Cohen, Wm. A. Wheaton, S. T. Megeath","Spectral Irradiance Calibration in the Infrared. XIV: the Absolute
+  Calibration of 2MASS","25 pages, Latex, AASTEX5 macros. Revised Table 2 includes updated
+  estimates of some uncertainties","Astron.J. 126 (2003) 1090","10.1086/376474",,"astro-ph",,"  Element-by-element we have combined the optical components in the three 2MASS
+cameras, and incorporated detector quantum efficiency curves and site-specific
+atmospheric transmissions, to create three relative spectral response curves
+(RSRs). We provide absolute 2MASS attributes associated with ""zero magnitude""
+in the JHKs bands so that these RSRs may be used for synthetic photometry. The
+RSRs tie 2MASS to the Cohen-Walker-Witteborn framework of absolute photometry
+and spectra for the purpose of using 2MASS data to support the development of
+absolute calibrators for IRAC and pairwise cross-calibrators between all three
+SIRTF instruments. We examine the robustness of these RSRs to changes in water
+vapor within a night. We compare the observed 2MASS magnitudes of 33 stars
+(converted from the precision optical calibrators of Landolt and Carter-Meadows
+into absolute infrared calibrators from 1.2-35 um with our predictions, thereby
+deriving 2MASS ""zero point offsets"" from the ensemble. These offsets are the
+final ingredients essential to merge 2MASS $JHK_{s}$ data with other absolutely
+calibrated bands and stellar spectra, and to support the creation of faint
+calibration stars for SIRTF.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 23:31:56 GMT""},{""version"":""v2"",""created"":""Mon, 5 May 2003 17:38:20 GMT""}]","2009-11-07"
+"cond-mat/0304435","Antony Carrington","A. Carrington, P.J. Meeson, J.R. Cooper, L. Balicas, N.E. Hussey, E.A.
+  Yelland, S. Lee, A. Yamamoto, S. Tajima, S.M. Kazakov and J. Karpinski","Determination of the Fermi Surface of MgB$_2$ by the de Haas-van Alphen
+  effect","4 pages, 2 column with figures","Phys. Rev. Lett. 91, 037003 (2003).","10.1103/PhysRevLett.91.037003",,"cond-mat.supr-con",,"  We report measurements of the de Haas-van Alphen effect for single crystals
+of MgB$_2$, in magnetic fields up to 32 Tesla. In contrast to our earlier work,
+dHvA orbits from all four sheets of the Fermi surface were detected. Our
+results are in good overall agreement with calculations of the electronic
+structure and the electron-phonon mass enhancements of the various orbits, but
+there are some small quantitative discrepancies. In particular, systematic
+differences in the relative volumes of the Fermi surface sheets and the
+magnitudes of the electron-phonon coupling constants could be large enough to
+affect detailed calculations of T$_{c}$ and other superconducting properties.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 16:51:27 GMT""}]","2009-11-10"
+"cond-mat/0304436","Prabhakar P. Singh","Prabhakar P. Singh","Carbon Doping in MgB_2 : Role of Boron and Carbon p_x(y) Bands","9 pages, 5 figures","Solid State Commun. 127, 271 (2003)","10.1016/S0038-1098(03)00426-5",,"cond-mat.supr-con cond-mat.mtrl-sci",,"  We have studied the changes in the electronic structure and the
+superconducting transition temperature T_c of Mg(B_{1-x}C_{x})_{2} alloys as a
+function of x with 0\leq x\leq 0.3. Our density-functional-based approach uses
+coherent-potential approximation to describe the effects of disorder,
+Gaspari-Gyorffy formalism to estimate the electron-phonon matrix elements and
+Allen-Dynes equation to calculate T_c in these alloys. We find that the changes
+in the electronic structure of Mg(B_{1-x}C_{x})_{2} alloys, especially near the
+Fermi energy E_F, come mainly from the outward movement of E_F with increasing
+x, and the effects of disorder in the B plane are small. In particular, our
+results show a sharp decline in both B and C p_{x(y)} states for 0.2\leq x\leq
+0.3. Our calculated variation in T_{c} of Mg(B_{1-x}C_{x})_{2} alloys is in
+qualitative agreement with the experiments.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 17:04:41 GMT""}]","2009-11-10"
+"cond-mat/0304437","Prabhakar P. Singh","P. Jiji Thomas Joseph and Prabhakar P. Singh","Theoretical Study of Electronic Structure and Superconductivity in
+  Nb_(1-x)B_2 Alloys","10 pages, 4 figures","Physica C 391, 125 (2003)","10.1016/S0921-4534(03)01091-8",,"cond-mat.supr-con cond-mat.mtrl-sci",,"  Using the Korringa-Kohn-Rostoker coherent-potential approximation in the
+atomic-sphere approximation (KKR-ASA CPA) we have studied the changes in the
+electronic structure and the superconducting transition temperature T_{c} in
+Nb_{1-x}B_{2} alloys as a function of x. We find that the variation in the
+electronic structure of Nb_{1-x}B_{2} alloys as a function of x is consistent
+with the rigid-band model. However, the variation of T_{c}, obtained using the
+Allen-Dynes equation within the Gaspari-Gyorffy formalism to estimate the
+electron-phonon matrix elements, does not follow the expected trend. We
+associate this disagreement to the use of a constant \omega_{rms} in the
+Allen-Dynes equation over the whole range of vacancy concentration, thereby
+indicating the importance of lattice dynamical effects in these systems.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 17:15:02 GMT""}]","2009-11-10"
+"cond-mat/0304438","Tommaso Roscilde","Alessandro Cuccoli, Tommaso Roscilde, Ruggero Vaia, Paola Verrucchi","Detection of XY behaviour in weakly anisotropic quantum antiferromagnets
+  on the square lattice","4 pages, 4 figures; Physical Review Letters (in press)","Phys. Rev. Lett. 90 167205 (2003)","10.1103/PhysRevLett.90.167205",,"cond-mat.stat-mech cond-mat.str-el",,"  We consider the Heisenberg antiferromagnet on the square lattice with S=1/2
+and very weak easy-plane exchange anisotropy; by means of the quantum Monte
+Carlo method, based on the continuous-time loop algorithm, we find that the
+thermodynamics of the model is highly sensitive to the presence of tiny
+anisotropies and is characterized by a crossover between isotropic and planar
+behaviour. We discuss the mechanism underlying the crossover phenomenon and
+show that it occurs at a temperature which is characteristic of the model. The
+expected Berezinskii-Kosterlitz-Thouless transition is observed below the
+crossover: a finite range of temperatures consequently opens for experimental
+detection of non-critical 2D XY behaviour. Direct comparison is made with
+uniform susceptibility data relative to the S=1/2 layered antiferromagnet
+Sr2CuO2Cl2.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 18:34:47 GMT""}]","2007-05-23"
+"cond-mat/0304439","Gerrit E. W. Bauer","Gerrit E.W. Bauer, Yaroslav Tserkovnyak, Daniel Huertas-Hernando, and
+  Arne Brataas","From Digital to Analogue Magnetoelectronics: Theory of Transport in
+  Non-Collinear Magnetic Nanostructures","To be published in ""Advance in Solid State Physics"", edited by B.
+  Kramer, Springer Verlag, Berlin, 2003",,"10.1007/978-3-540-44838-9_27",,"cond-mat.mes-hall",,"  Magnetoelectronics is mainly digital, i.e. governed by up and down
+magnetizations. In contrast, analogue magnetoelectronics makes use of phenomena
+occuring for non-collinear magnetization configurations. Here we review
+theories which have recently been applied to the transport in non-collinear
+magnetic nanostructures in two and multiterminal structures, viz. random matrix
+and circuit theory. Both are not valid for highly transparent systems in a
+resistive environment like perpendicular metallic spin valves. The solution to
+this problem is a renormalization of the conventional and spin-mixing
+conductance parameters.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:12:05 GMT""}]","2015-06-24"
+"cond-mat/0304440","Mikhail Erementchouk","L. I. Deych, M. V. Erementchouk, A. A. Lisyansky, B. L. Altshuler","Scaling and the center of band anomaly in a one-dimensional Anderson
+  model with diagonal disorder","revised version, 4 pages, 2 figures, revtex","Phys. Rev. Lett. 91, 096601 (2003)","10.1103/PhysRevLett.91.096601",,"cond-mat.dis-nn",,"  We resolve the problem of the violation of single parameter scaling at the
+zero energy of the Anderson tight-binding model with diagonal disorder. It
+follows from the symmetry properties of the tight-binding Hamiltonian that this
+spectral point is in fact a boundary between two adjacent bands. The states in
+the vicinity of this energy behave similarly to states at other band
+boundaries, which are known to violate single parameter scaling.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 21:25:10 GMT""},{""version"":""v2"",""created"":""Mon, 8 Sep 2003 23:00:29 GMT""}]","2007-05-23"
+"cond-mat/0304441","Taku J. Sato","T. J. Sato, S. -H. Lee, T. Katsufuji, M. Masaki, S. Park, J. R. D.
+  Copley and H. Takagi","Unconventional spin fluctuations in the hexagonal antiferromagnet
+  YMnO$_3$","4pages, 5figures",,"10.1103/PhysRevB.68.014432",,"cond-mat.mtrl-sci",,"  We used inelastic neutron scattering to show that well below its N\'{e}el
+temperature, $T_{\rm N}$, the two-dimensional (2D) XY nearly-triangular
+antiferromagnet YMnO$_{3}$ has a prominent {\it central peak} associated with
+2D antiferromagnetic fluctuations with a characteristic life time of 0.55(5)
+ps, coexisting with the conventional long-lived spin-waves. Existence of the
+two time scales suggests competition between the N\'{e}el phase favored by weak
+interplane interactions, and the Kosterlitz-Thouless phase intrinsic to the 2D
+XY spin system.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 22:04:57 GMT""}]","2009-11-10"
+"cond-mat/0304442","Zeno Farkas","Tamas Fulop, Zeno Farkas, Alfred Seeger, Janos Major","On the inner structure of confined positronium","8 pages, 6 figures",,,,"cond-mat.mtrl-sci",,"  We study the inner structure of a positronium confined to a void by treating
+it as a two-particle quantum system where the electron is captured by an
+infinite potential well and the positron feels only the Coulomb attraction of
+the electron. We calculate the ground state and the related quantities that
+govern the annihilation rate, and discuss implications of the results.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 00:00:23 GMT""}]","2007-05-23"
+"cond-mat/0304443","Joonghoe Dho","Joonghoe Dho, N. H. Hur","Thermal relaxation of field-induced irreversible ferromagnetic phase in
+  Pr-doped manganites","19 pages, 8 figure, in press in Phys. Rev. B",,"10.1103/PhysRevB.67.214414",,"cond-mat.str-el",,"  We have investigated the magnetic and transport properties of
+Pr$_{0.65}$Ca$_{0.35}$MnO$_3$ and Pr$_{0.82}$Na$_{0.18}$MnO$_3$ with almost
+same doping level under various magnetic fields. Upon applying a field of 4 T,
+both compounds undergo a metamagnetic transition from antiferromagnetic (AFM)
+to ferromagnetic (FM) in the low temperature region. The field-induced FM state
+is very stable for at least 10$^5$ s even after removing the field. This
+irreversible FM behavior is different from the spontaneous FM ordering as well
+as the FM state in a reversible metamagnetic transition. We discuss this
+unusual FM phenomenon found in the Pr-doped manganites with the AFM ground
+state in terms of the reorientation of Mn spins pinned by localized Pr moments.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 02:01:42 GMT""}]","2009-11-10"
+"cond-mat/0304444","Denis Valer'evich Spirin","D.V. Spirin","Spin-Wave Theory for s=1 Antiferromagnetic Isotropic Chain","8 pages, 2 figures",,,,"cond-mat.str-el",,"  In the paper we describe the modification of spin-wave theory for
+one-dimensional isotropic antiferromagnet. This theory enables to obtain the
+energy of magnetic excitations of short wave length and correlation function in
+agreement with numerical studies.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 04:39:03 GMT""}]","2007-05-23"
+"cond-mat/0304445","Olga Dimitrova","Ol'ga V. Dimitrova and M. V. Feigel'man","Phase diagram of a surface superconductor in parallel magnetic field","5 pages, 1 figure; v2: as published, minor corrections","JETP Letters, Vol. 78, No. 10, pp 637-641 (2003)","10.1134/1.1644308",,"cond-mat.supr-con",,"  Detailed theory of phase diagram of clean 2D surface superconductor in a
+parallel magnetic field is presented. Regular spin-orbital interaction of the
+Rashba type is known to produce inhomogeneous superconductive state similar to
+the Larkin-Ovchinnikov-Fulde-Ferrel (LOFF) state with $\Delta({\bf r})\propto
+\cos({\bf Qr})$ at high magnetic fields, with $Q \sim g\mu_B h/v_F$. We
+consider the case of relatively strong Rashba interaction and show that at low
+temperatures $T\leq 0.4 T_{c0}$ the LOFF-type state is separated from the usual
+homogeneous state by the first-order phase transition line. At higher
+temperatures new ""helical"" state with $\Delta({\bf r}) \propto \exp(i{\bf Qr})$
+intervene between uniform BCS state and LOFF-like state. One component of
+superfluid density tensor $n_s$ vanishes on the second-order transition line
+between BCS state and helical state. Nonmagnetic impurities suppresses both
+inhomogeneous states, and eliminate them completely at $T_{c0}\tau \leq 0.11$.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 11:43:28 GMT""},{""version"":""v2"",""created"":""Thu, 24 Jun 2004 18:44:05 GMT""}]","2009-11-10"
+"cond-mat/0304446","Jeremie Leonard","J. Leonard, M. Walhout, A. P. Mosk, T. Mueller, M. Leduc and C.
+  Cohen-Tannoudji","Giant Helium Dimers Produced by Photoassociation of Ultracold Metastable
+  Atoms","4 pages, 4 figures","Phys. Rev. Lett. 91, 073203 (2003)","10.1103/PhysRevLett.91.073203",,"cond-mat",,"  We produce giant helium dimers by photoassociation of metastable helium atoms
+in a magnetically trapped, ultracold cloud. The photoassociation laser is
+detuned red of the atomic $2^3S_1 - 2^3P_0 $ line and produces strong heating
+of the sample when resonant with molecular bound states. The temperature of the
+cloud serves as an indicator of the molecular spectrum. We report good
+agreement between our spectroscopic measurements and our calculations of the
+five bound states belonging to a $0_u^+$ purely long-range potential well.
+These previously unobserved states have classical inner turning points of about
+150 $a_0$ and outer turning points as large as 1150 $a_0$.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 12:31:17 GMT""}]","2009-11-10"
+"cond-mat/0304447","Alexey N. Rubtsov","A.N. Rubtsov and T. Janssen","Thermodynamic Properties of the Discommensuration Point for
+  Incommensurate Structures: A ""Third-Order"" Phase Transition","5 pages",,,,"cond-mat.stat-mech",,"  The consequences of the opening of a phason gap in incommensurate systems are
+studied on a simple model, the discrete frustrated $\phi^4$-model. Analytical
+considerations and numerical results show that there is a very weak phase
+transition that can be characterized as third order.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 15:22:31 GMT""}]","2007-05-23"
+"cs/0304025","Joseph O'Rourke","Joseph O'Rourke","Computational Geometry Column 44","3 pages, 3 figures",,,,"cs.CG",,"  The open problem of whether or not every pair of equal-area polygons has a
+hinged dissection is discussed.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 21:12:35 GMT""}]","2007-05-23"
+"gr-qc/0304067","Roy Maartens","Burin Gumjudpai, Roy Maartens (Portsmouth), Christopher Gordon
+  (Cambridge)","Density perturbations in a brane-world universe with dark radiation","10 pages, 4 figures","Class.Quant.Grav. 20 (2003) 3295","10.1088/0264-9381/20/15/302",,"gr-qc astro-ph hep-th",,"  We investigate the effects on cosmological density perturbations of dark
+radiation in a Randall-Sundrum 2 type brane-world. Dark radiation in the
+background is limited by observational constraints to be a small fraction of
+the radiation energy density, but it has an interesting qualitative effect in
+the radiation era. On large scales, it serves to slightly suppress the
+radiation density perturbations at late times, while boosting the perturbations
+in dark radiation. In a kinetic (stiff) era, the suppression is much stronger,
+and drives the density perturbations to zero.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 11:23:52 GMT""}]","2009-11-10"
+"hep-ph/0304181","Nikolai Zotov","A.V. Lipatov (Moscow State University), N.P. Zotov (Skobeltsyn
+  Institute of Nuclear Physics, MSU)","Study of the colour singlet model with k_T-factorization in inclusive
+  J/\psi production at CERN LEP2","11 pages, 6 figures",,,,"hep-ph",,"  We calculate the cross section and the transverse momentum distribution of
+inclusive J/\psi production in \gamma \gamma collisions at CERN LEP2 within the
+colour singlet model and the k_T-factorization approach, including both direct
+and resolved photon contributions. The unintegrated gluon distribution in the
+photon is determined, using the Blumlein's prescription for unintegrated gluon
+distribution in a proton. We compare our theoretical predictions with
+preliminary data taken by the DELPHI collaboration at LEP2. In addition, we
+present our predictions for the J/\psi polarization properties.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 18:10:02 GMT""}]","2007-05-23"
+"hep-ph/0304182","Dam Thanh Son","D.T. Son and M.A. Stephanov","QCD and dimensional deconstruction","28 pages; references updated, to appear in PRD","Phys.Rev. D69 (2004) 065020","10.1103/PhysRevD.69.065020","INT-PUB 03-07","hep-ph hep-th nucl-th",,"  Motivated by phenomenological models of hidden local symmetries and the ideas
+of dimensional deconstruction and gauge/gravity duality, we consider the model
+of an ""open moose"". Such a model has a large number K of hidden gauge groups as
+well as a global chiral symmetry. In the continuum limit K->infinity the model
+becomes a 4+1 dimensional theory of a gauge field propagating in a dilaton
+background and an external space-time metric with two boundaries. We show that
+the model reproduces several well known phenomenological and theoretical
+aspects of low-energy hadron dynamics. We derive the general formulas for the
+mass spectrum, the decay constants of the pion and vector mesons, and the
+couplings between mesons. We then consider two simple realizations, one with a
+flat metric and another with a ""cosh"" metric interpolating between two AdS
+boundaries. For the pion form-factor, the single pole rho-meson dominance is
+exact in the latter case and approximate in the former case. We discover that
+an AdS/CFT-like prescription emerges in the computation of current-current
+correlators. We speculate on the role of the model in the theory dual to QCD.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:04:18 GMT""},{""version"":""v2"",""created"":""Sat, 14 Feb 2004 07:23:44 GMT""}]","2007-05-23"
+"hep-ph/0304183","National Centre for Physics","Amjad Hussain Shah Gilani (NCP, QAU, Pakistan), Riazuddin (NCP, QAU,
+  Pakistan and KFUPM, Saudi Arabia) and T.A. Al-Aithan (KFUPM, Saudi Arabia)","Ward Identities, B-> \rho Form Factors and |V_ub|","30 pages+four postscript figures, an Appendix added","JHEP 0309:065,2003","10.1088/1126-6708/2003/09/065",,"hep-ph",,"  The exclusive FCNC beauty semileptonic decay B-> \rho is studied using Ward
+identities in a general vector meson dominance framework, predicting vector
+meson couplings involved. The long distance contributions are discussed which
+results to obtain form factors and |V_ub|. A detailed comparison is given with
+other approaches.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 20:06:08 GMT""},{""version"":""v2"",""created"":""Thu, 8 May 2003 10:34:05 GMT""},{""version"":""v3"",""created"":""Sat, 2 Aug 2003 05:37:09 GMT""}]","2010-11-23"
+"hep-ph/0304186","Paul Langacker","Paul Langacker","Structure of the Standard Model","22 pages, 6 figures. First appeared in Precision Tests of the
+  Standard Electroweak Model, 1995","Precision Tests of the Standard Electroweak Model, ed. P.
+  Langacker (World, Singapore, 1995), p15",,,"hep-ph",,"  The structure of the standard model is concisely summarized, including the
+standard model Lagrangian, spontaneous symmetry breaking, the reexpression of
+the Lagrangian in terms of mass eigenstates after symmetry breaking, and the
+gauge interactions. The problems of the standard model are described.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 14:16:31 GMT""}]","2007-05-23"
+"math/0304257","Ben Andrews","Ben Andrews","Positively curved surfaces in the three-sphere",,"Proceedings of the ICM, Beijing 2002, vol. 2, 221--230",,,"math.DG math.AP",,"  In this talk I will discuss an example of the use of fully nonlinear
+parabolic flows to prove geometric results. I will emphasise the fact that
+there is a wide variety of geometric parabolic equations to choose from, and to
+get the best results it can be very important to choose the best flow. I will
+illustrate this in the setting of surfaces in a three-dimensional sphere. There
+are quite a few relevant results for surfaces in the sphere satisfying various
+kinds of curvature equations, including totally umbillic surfaces, minimal
+surfaces and constant mean curvature surfaces, and intrinsically flat surfaces.
+Parabolic flows can strengthen such results by allowing classes of surfaces
+satisfying curvature inequalities rather than equalities: This was first done
+by Huisken, who used mean curvature flow to deform certain classes of surfaces
+to totally umbillic surfaces. This motivates the question ``What is the optimal
+result of this kind?'' -- that is, what is the weakest pointwise curvature
+condition which defines a class of surfaces which retracts to the space of
+great spheres? The answer to this question can be guessed in view of the
+examples. To prove it requires a surprising choice of evolution equation,
+forced by the requirement that the pointwise curvature condition be preserved.
+I will conclude by mentioning some other geometric situations in which strong
+results can be proved by choosing the best possible evolution equation.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:12:36 GMT""}]","2007-05-23"
+"math/0304258","I. Dolgachev","I. Dolgachev","Abstract configurations in algebraic geometry","39 pages, 12 figures",,,,"math.AG math.CO",,"  An abstract $(v_k,b_r)$-configuration is a pair of finite sets of
+cardinalities $v$ and $b$ with a relation on the product of the sets such that
+each element of the first set is related to the same number $k$ of elements
+from the second set and each element of the second set is related to the same
+number $r$ of elements in the first set. An example of an abstract
+configuration is a finite geometry. In this paper we discuss some examples of
+abstract configurations and, in particular finite geometries, which one
+encounters in algebraic geometry.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:48:07 GMT""}]","2007-05-23"
+"math/0304259","Robert Bartnik","Robert Bartnik","Mass and 3-metrics of non-negative scalar curvature",,"Proceedings of the ICM, Beijing 2002, vol. 2, 231--240",,,"math.DG math-ph math.MP",,"  Physicists believe, with some justification, that there should be a
+correspondence between familiar properties of Newtonian gravity and properties
+of solutions of the Einstein equations. The Positive Mass Theorem (PMT), first
+proved over twenty years ago \cite{SchoenYau79b,Witten81}, is a remarkable
+testament to this faith. However, fundamental mathematical questions concerning
+mass in general relativity remain, associated with the definition and
+properties of quasi-local mass. Central themes are the structure of metrics
+with non-negative scalar curvature, and the role played by minimal area
+2-spheres (black holes).
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:13:03 GMT""}]","2007-05-23"
+"math/0304260","Paul Biran","Paul Biran","Geometry of symplectic intersections",,"Proceedings of the ICM, Beijing 2002, vol. 2, 241--256",,,"math.SG math.AG",,"  In this paper we survey several intersection and non-intersection phenomena
+appearing in the realm of symplectic topology. We discuss their implications
+and finally outline some new relations of the subject to algebraic geometry.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:13:24 GMT""}]","2007-05-23"
+"math/0304261","Hubert L. Bray","Hubert L. Bray","Black holes and the Penrose inequality in general relativity",,"Proceedings of the ICM, Beijing 2002, vol. 2, 257--272",,,"math.DG",,"  In a paper \cite{P} in 1973, R. Penrose made a physical argument that the
+total mass of a spacetime which contains black holes with event horizons of
+total area $A$ should be at least $\sqrt{A/16\pi}$. An important special case
+of this physical statement translates into a very beautiful mathematical
+inequality in Riemannian geometry known as the Riemannian Penrose inequality.
+One particularly geometric aspect of this problem is the fact that apparent
+horizons of black holes in this setting correspond to minimal surfaces in
+Riemannian 3-manifolds. The Riemannian Penrose inequality was first proved by
+G. Huisken and T. Ilmanen in 1997 for a single black hole \cite{HI} and then by
+the author in 1999 for any number of black holes \cite{Bray}. The two
+approaches use two different geometric flow techniques. The most general
+version of the Penrose inequality is still open. In this talk we will sketch
+the author's proof by flowing Riemannian manifolds inside the class of
+asymptotically flat 3-manifolds (asymptotic to $\real^3$ at infinity) which
+have nonnegative scalar curvature and contain minimal spheres. This new flow of
+metrics has very special properties and simulates an initial physical situation
+in which all of the matter falls into the black holes which merge into a
+single, spherically symmetric black hole given by the Schwarzschild metric.
+Since the Schwarzschild metric gives equality in the Penrose inequality and the
+flow decreases the total mass while preserving the area of the horizons of the
+black holes, the Penrose inequality follows. We will also discuss how these
+techniques can be generalized in higher dimensions.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:13:47 GMT""}]","2007-05-23"
+"math/0304262","Xiuxiong Chen","Xiuxiong Chen","Recent progress in K\""ahler geometry",,"Proceedings of the ICM, Beijing 2002, vol. 2, 273--282",,,"math.DG",,"  In recent years, there are many progress made in K\""ahler geometry. In
+particular, the topics related to the problems of the existence and uniqueness
+of extremal K\""ahler metrics, as well as obstructions to the existence of such
+metrics in general K\""ahler manifold. In this talk, we will report some recent
+developments in this direction. In particular, we will discuss the progress
+recently obtained in understanding the metric structure of the infinite
+dimensional space of Kaehler potentials, and their applications to the problems
+mentioned above. We also will discuss some recent on Kaehler Ricci flow.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:14:11 GMT""}]","2007-05-23"
+"math/0304263","Weiyue Ding","Weiyue Ding","On the Schr\""odinger flows",,"Proceedings of the ICM, Beijing 2002, vol. 2, 283--292",,,"math.AP",,"  We present some recent results on the existence of solutions of the
+Schr\""odinger flows, and pose some problems for further research.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:15:11 GMT""}]","2007-05-23"
+"math/0304264","Peter Li","Peter Li","Differential geometry via harmonic functions",,"Proceedings of the ICM, Beijing 2002, vol. 2, 293--302",,,"math.DG",,"  In this talk, I will discuss the use of harmonic functions to study the
+geometry and topology of complete manifolds. In my previous joint work with
+Luen-fai Tam, we discovered that the number of infinities of a complete
+manifold can be estimated by the dimension of a certain space of harmonic
+functions. Applying this to a complete manifold whose Ricci curvature is almost
+non-negative, we showed that the manifold must have finitely many ends. In my
+recent joint works with Jiaping Wang, we successfully applied this general
+method to two other classes of complete manifolds. The first class are
+manifolds with the lower bound of the spectrum $\lambda_1(M) >0$ and whose
+Ricci curvature is bounded by $$ Ric_M \ge -{m-2 \over m-1} \lambda_1(M). $$
+The second class are stable minimal hypersurfaces in a complete manifold with
+non-negative sectional curvature. In both cases we proved some splitting type
+theorems and also some finiteness theorems.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:15:36 GMT""}]","2007-05-23"
+"math/0304265","Yiming Long","Yiming Long","Index iteration theory for symplectic paths with applications to
+  nonlinear Hamiltonian systems",,"Proceedings of the ICM, Beijing 2002, vol. 2, 303--314",,,"math.DG math.SG",,"  In recent years, we have established the iteration theory of the index for
+symplectic matrix paths and applied it to periodic solution problems of
+nonlinear Hamiltonian systems. This paper is a survey on these results.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:15:54 GMT""}]","2007-05-23"
+"math/0304266","Anton Petrunin","Anton Petrunin","Some applications of collapsing with bounded curvature",,"Proceedings of the ICM, Beijing 2002, vol. 2, 315--322",,,"math.DG",,"  In my talk I will discuss the following results which were obtained in joint
+work with Wilderich Tuschmann. 1. For any given numbers $m$, $C$ and $D$, the
+class of $m$-dimensional simply connected closed smooth manifolds with finite
+second homotopy groups which admit a Riemannian metric with sectional curvature
+$\vert K \vert\le C$ and diameter $\le D$ contains only finitely many
+diffeomorphism types. 2. Given any $m$ and any $\delta>0$, there exists a
+positive constant $i_0=i_0(m,\delta)>0$ such that the injectivity radius of any
+simply connected compact $m$-dimensional Riemannian manifold with finite second
+homotopy group and Ricci curvature $Ric\ge\delta$, $K\le 1$, is bounded from
+below by $i_0(m,\delta)$. I also intend to discuss Riemannian megafolds, a
+generalized notion of Riemannian manifolds, and their use and usefulness in the
+proof of these results.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:16:27 GMT""}]","2007-05-23"
+"math/0304267","Xiaochun Rong","Xiaochun Rong","Collapsed Riemannian manifolds with bounded sectional curvature",,"Proceedings of the ICM, Beijing 2002, vol. 2, 323--338",,,"math.DG",,"  In the last two decades, one of the most important developments in Riemannian
+geometry is the collapsing theory of Cheeger-Fukaya-Gromov. A Riemannian
+manifold is called (sufficiently) collapsed if its dimension looks smaller than
+its actual dimension while its sectional curvature remains bounded (say a very
+thin flat torus looks like a circle in a bared eyes). We will survey the
+development of collapsing theory and its applications to Riemannian geometry
+since 1990. The common starting point for all of these is the existence of a
+singular fibration structure on collapsed manifolds. However, new techniques
+have been introduced and tools from related fields have been brought in. As a
+consequence, light has been shed on some classical problems and conjectures
+whose statements do not involve collapsing. Specifically, substantial progress
+has been made on manifolds with nonpositive curvature, on positively pinched
+manifolds, collapsed manifolds with an a priori diameter bound, and subclasses
+of manifolds whose members satisfy additional topological conditions e.g.
+$2$-connectedness.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:16:40 GMT""}]","2007-05-23"
+"math/0304268","Richard Evan Schwartz","Richard Evan Schwartz","Complex hyperbolic triangle groups",,"Proceedings of the ICM, Beijing 2002, vol. 2, 339--350",,,"math.DG math.GR",,"  The theory of complex hyperbolic discrete groups is still in its childhood
+but promises to grow into a rich subfield of geometry. In this paper I will
+discuss some recent progress that has been made on complex hyperbolic
+deformations of the modular group and, more generally, triangle groups. These
+are some of the simplest nontrivial complex hyperbolic discrete groups. In
+particular, I will talk about my recent discovery of a closed real hyperbolic
+3-manifold which appears as the manifold at infinity for a complex hyperbolic
+discrete group.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:16:57 GMT""}]","2007-05-23"
+"math/0304269","Weiping Zhang","Weiping Zhang","Heat kernels and the index theorems on even and odd dimensional
+  manifolds",,"Proceedings of the ICM, Beijing 2002, vol. 2, 361--372",,,"math.DG math.AP",,"  In this talk, we review the heat kernel approach to the Atiyah-Singer index
+theorem for Dirac operators on closed manifolds, as well as the
+Atiyah-Patodi-Singer index theorem for Dirac operators on manifolds with
+boundary. We also discuss the odd dimensional counterparts of the above
+results. In particular, we describe a joint result with Xianzhe Dai on an index
+theorem for Toeplitz operators on odd dimensional manifolds with boundary.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 19:17:46 GMT""}]","2016-09-07"
+"math/0304270","R. Skip Garibaldi","R. Skip Garibaldi","Unramified cohomology of classifying varieties for exceptional simply
+  connected groups",,"Transactions of the American Mathematical Society 358 #1 (2006)
+  359-371","10.1090/S0002-9947-05-03676-7",,"math.AG",,"  Let BG be a classifying variety for an exceptional simple simply connected
+algebraic group G. We compute the degree 3 unramified Galois cohomology of BG
+with values in Q/Z(2) over an arbitrary field F. Combined with a paper by
+Merkurjev, this completes the computation of these cohomology groups for G
+semisimple simply connected over all fields.
+  These computations provide another example of a simple simply connected group
+G such that BG is not stably rational.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 20:29:26 GMT""}]","2009-05-23"
+"math/0304271","Martin Scharlemann","Martin Scharlemann and Jennifer Schultens","3-manifolds with planar presentations and the width of satellite knots","23 pages, 13 figures",,,"UCSB Math 2003-10","math.GT",,"  We consider compact 3-manifolds M having a submersion h to R in which each
+generic point inverse is a planar surface. The standard height function on a
+submanifold of the 3-sphere is a motivating example. To (M, h) we associate a
+connectivity graph G. For M in the 3-sphere, G is a tree if and only if there
+is a Fox reimbedding of M which carries horizontal circles to a complete
+collection of complementary meridian circles. On the other hand, if the
+connectivity graph of the complement of M is a tree, then there is a
+level-preserving reimbedding of M so that its complement is a connected sum of
+handlebodies.
+  Corollary: The width of a satellite knot is no less than the width of its
+pattern knot. In particular, the width of K_1 # K_2 is no less than the maximum
+of the widths of K_1 and K_2.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 00:35:06 GMT""}]","2007-05-23"
+"math/0304272","Pantelimon Stanica","Florian Luca, Pantelimon Stanica","On the prime power factorization of n!","7 pages; accepted Journal of Number Theory",,,,"math.NT",,"  In this paper we prove two results. The first theorem uses a paper of Kim
+\cite{K} to show that for fixed primes $p_1,...,p_k$, and for fixed integers
+$m_1,...,m_k$, with $p_i\not|m_i$, the numbers $(e_{p_1}(n),...,e_{p_k}(n))$
+are uniformly distributed modulo $(m_1,...,m_k)$, where $e_p(n)$ is the order
+of the prime $p$ in the factorization of $n!$. That implies one of Sander's
+conjecture from \cite{S}, for any set of odd primes. Berend \cite{B} asks to
+find the fastest growing function $f(x)$ so that for large $x$ and any given
+finite sequence $\epsilon_i\in \{0,1\}, i\le f(x)$, there exists $n<x$ such
+that the congruences $e_{p_i}(n)\equiv \epsilon_i\pmod 2$ hold for all $i\le
+f(x)$. Here, $p_i$ is the $i$th prime number.
+  In our second result, we are able to show that $f(x)$ can be taken to be at
+least $c_1 (\log x/(\log\log x)^6)^{1/9}$, with some absolute constant $c_1$,
+provided that only the first odd prime numbers are involved.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 02:42:21 GMT""}]","2007-05-23"
+"math/0304273","Leonardo Macarini","Leonardo Macarini","Symplectic manifolds with disconnected contact type boundary in
+  dimension 4n","7 pages",,,,"math.SG math.DG",,"  We give examples of compact symplectic manifolds with disconnected contact
+type boundary in dimension $4n$ for any $n\geq 1$. The example is given by a
+subset of the tangent bundle of a compact quotient of the complex hyperbolic
+space endowed with the canonical symplectic form plus a generalized magnetic
+field and its boundary is given by two hypersurfaces of constant kinetic
+energy. In particular, when $n=1$, it is obtained by the tangent bundle of a
+surface of genus greater than 1 endowed with the canonical symplectic form plus
+the pullback of the K\""ahler form by the canonical projection.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 06:14:26 GMT""}]","2007-05-23"
+"math/0304274","Takehiko Yasuda","Takehiko Yasuda","Piecewise morphisms of birational foliated varieties","This paper has been withdrawn",,,,"math.AG math.DS","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  This paper has been withdrawn by the author due to a crucial error.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 15:38:37 GMT""},{""version"":""v2"",""created"":""Sun, 27 Apr 2003 12:38:07 GMT""},{""version"":""v3"",""created"":""Tue, 9 Jun 2009 08:01:28 GMT""}]","2009-06-09"
+"nlin/0304039","Hironori Makino","H.Makino and S.Tasaki","Deviations from Berry--Robnik Distribution Caused by Spectral
+  Accumulation","4 pages","J. Phys. Soc. Jpn. Vol.72,Suppl.C, pp97(2003)","10.1143/JPSJS.72SC.97",,"nlin.CD",,"  By extending the Berry--Robnik approach for the nearly integrable quantum
+systems,\cite{[1]} we propose one possible scenario of the energy level spacing
+distribution that deviates from the Berry--Robnik distribution. The result
+described in this paper implies that deviations from the Berry--Robnik
+distribution would arise when energy level components show strong accumulation,
+and otherwise, the level spacing distribution agrees with the Berry--Robnik
+distribution.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 18:33:57 GMT""},{""version"":""v2"",""created"":""Fri, 26 Mar 2004 07:34:08 GMT""}]","2015-06-26"
+"nucl-th/0304065","Kristina D. Sviratcheva","K.D. Sviratcheva, C. Bahri, A.I. Georgieva, J.P. Draayer","On the physical significance of q-deformation to isovector pairing
+  interactions in nuclei","6 pages, 2 figures",,,,"nucl-th",,"  The quantum deformation concept is applied to a study of isovector pairing
+correlations in nuclei of the mass 40<A<100 region. While the non-deformed (q
+-> 1) limit of the theory provides a reasonable global estimate for strength
+parameters of the pairing interaction, the results show that the q-deformation
+plays a significant role in understanding higher-order effects in the
+interaction.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 23:28:09 GMT""}]","2007-05-23"
+"physics/0304066","Boris Blinov","B.B. Blinov","RF depolarizing resonances in the presence of a full Siberian snake and
+  full snake spin-flipping","Ph. D. Thesis, 69 pages",,,,"physics.acc-ph",,"  Frequent polarization reversals, or spin-flips, of a stored polarized beam in
+a high energy scattering asymmetry experiments may greatly reduce systematic
+errors of spin asymmetry measurements. A spin-flipping technique is being
+developed by using rf magnets running at a frequency close to the spin
+precession frequency, thereby creating spin-depolarizing resonances; the spin
+can then be flipped by ramping the rf magnet's frequency through the resonance.
+We studied, at the Indiana University Cyclotron Facility Cooler Ring,
+properties of such rf depolarizing resonances in the presence of a nearly-full
+Siberian snake and their possible application for spin-flipping. By using an
+rf-solenoid magnet, we reached a 98.7% efficiency of spin-flipping. However, an
+rf-dipole magnet is more practical at high energies; hence, studies of
+spin-flipping by an rf-dipole are underway at IUCF.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 20:58:36 GMT""}]","2009-09-29"
+"physics/0304067","William J. Mullin","W. J. Mullin and G. Blaylock (Department of Physics, University of
+  Massachusetts, Amherst, Massachusetts)","Quantum Statistics: Is there an effective fermion repulsion or boson
+  attraction?","26 pages, 3 figures. Submitted to American Journal of Physics",,"10.1119/1.1590658",,"physics.ed-ph",,"  Physicists often claim that there is an effective repulsion between fermions,
+implied by the Pauli principle, and a corresponding effective attraction
+between bosons. We examine the origins of such exchange force ideas, the
+validity for them, and the areas where they are highly misleading. We propose
+that future explanations of quantum statistics should avoid the idea of a
+effective force completely and replace it with more appropriate physical
+insights, some of which are suggested here.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 21:28:58 GMT""}]","2009-11-10"
+"physics/0304068","Eric-Olivier Le Bigot","Eric-Olivier Le Bigot, Ulrich D. Jentschura, Peter J. Mohr, Paul
+  Indelicato, Gerhard Soff","Perturbation Approach to the Self Energy of non-S Hydrogenic States","18 pages (in 2-column format), 21 figures. Version 2 (June 20, 2003)
+  includes minor modifications","Phys. Rev. A 68 (2003) 042101","10.1103/PhysRevA.68.042101",,"physics.atom-ph",,"  We present results on the self-energy correction to the energy levels of
+hydrogen and hydrogenlike ions. The self energy represents the largest QED
+correction to the relativistic (Dirac-Coulomb) energy of a bound electron. We
+focus on the perturbation expansion of the self energy of non-S states, and
+provide estimates of the so-called A60 perturbative coefficient, which can be
+considered as a relativistic Bethe logarithm. Precise values of A60 are given
+for many P, D, F and G states, while estimates are given for other electronic
+states. These results can be used in high-precision spectroscopy experiments in
+hydrogen and hydrogenlike ions. They yield the best available estimate of the
+self-energy correction of many atomic states.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 21:42:54 GMT""},{""version"":""v2"",""created"":""Fri, 20 Jun 2003 20:12:23 GMT""}]","2007-05-23"
+"physics/0304069","Z. Jane Wang","Z. Jane Wang","Using Drag to Hover","8 pages",,,,"physics.flu-dyn physics.gen-ph",,"  Unlike a helicopter, an insect can, in theory, use both lift and drag to stay
+aloft. Here we show that a dragonfly uses mostly drag to hover by employing
+asymmetric up and down strokes. Computations of a family of strokes further
+show that using drag can be as efficient as using lift at the low Reynolds
+number regime appropriate for insects.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 21:47:15 GMT""}]","2007-05-23"
+"physics/0304070","Dr. Mario Rabinowitz","Mario Rabinowitz","Advanced Power Transmission of the Future","16 pages, 0 figures","Power Engineering Review Vol.20, No.1, 5 (2000)",,,"physics.gen-ph physics.soc-ph",,"  Electric power is a vital ingredient of modern society. This article is
+written to provide an insight into the physics and engineering that go into the
+transmission of electric power and its potential modernization. Topics covered
+will be Transmission and Distribution, Comparing Overhead and Underground
+Delivery, Pros and Cons of Underground Delivery, Superconducting Transmission,
+Cryorisistive Delivery, Hyperconductivity, and Metal-Plated Graphite Fibers.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 02:01:50 GMT""}]","2007-05-23"
+"quant-ph/0304127","Igor Devetak","I. Devetak (IBM)","The private classical capacity and quantum capacity of a quantum channel","20 pages, LaTeX. Some errors in Chapter 4 and Appendix C corrected.
+  More typos corrected. Appendix C improved. to appear in IEEE TIT",,,,"quant-ph",,"  A formula for the capacity of a quantum channel for transmitting private
+classical information is derived. This is shown to be equal to the capacity of
+the channel for generating a secret key, and neither capacity is enhanced by
+forward public classical communication. Motivated by the work of Schumacher and
+Westmoreland on quantum privacy and quantum coherence, parallels between
+private classical information and quantum information are exploited to obtain
+an expression for the capacity of a quantum channel for generating pure
+bipartite entanglement. The latter implies a new proof of the quantum channel
+coding theorem and a simple proof of the converse. The coherent information
+plays a role in all of the above mentioned capacities.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 2003 17:04:15 GMT""},{""version"":""v2"",""created"":""Tue, 26 Aug 2003 14:17:17 GMT""},{""version"":""v3"",""created"":""Thu, 18 Mar 2004 19:07:08 GMT""},{""version"":""v4"",""created"":""Fri, 7 May 2004 14:01:16 GMT""},{""version"":""v5"",""created"":""Thu, 17 Jun 2004 17:40:49 GMT""},{""version"":""v6"",""created"":""Thu, 21 Oct 2004 13:07:54 GMT""}]","2007-05-23"
+"quant-ph/0304128","Cristian S. Calude","Vadim A. Adamyan, Cristian S. Calude, Boris S. Pavlov","Transcending the Limits of Turing Computability","13 pages, 1 figure",,,,"quant-ph",,"  Hypercomputation or super-Turing computation is a ``computation'' that
+transcends the limit imposed by Turing's model of computability. The field
+still faces some basic questions, technical (can we mathematically and/or
+physically build a hypercomputer?), cognitive (can hypercomputers realize the
+AI dream?), philosophical (is thinking more than computing?). The aim of this
+paper is to address the question: can we mathematically build a hypercomputer?
+We will discuss the solutions of the Infinite Merchant Problem, a decision
+problem equivalent to the Halting Problem, based on results obtained in
+\cite{Coins,acp}. The accent will be on the new computational technique and
+results rather than formal proofs.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 06:16:38 GMT""},{""version"":""v2"",""created"":""Sun, 11 May 2003 20:40:54 GMT""}]","2007-05-23"
+"quant-ph/0304129","Mardoyan","L.G. Mardoyan, L.S. Petrosyan, H.A. Sarkisyan","The charge-dyon bound system in the spherical quantum well","8 pages, 5 figures",,"10.1103/PhysRevA.68.014103",,"quant-ph",,"  The spherical wave functions of charge-dyon bounded system in a rectangular
+spherical quantum dot of infinitely and finite height are calculated. The
+transcendent equations, defining the energy spectra of the systems are
+obtained. The dependence of the energy levels from the wall sizes is found.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 08:08:36 GMT""}]","2009-11-10"

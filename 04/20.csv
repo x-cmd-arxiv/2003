@@ -1,0 +1,338 @@
+"astro-ph/0304351","Revnivtsev Mikhail","M. Revnivtsev (MPA, Garching, Germany; Space Research Institute,
+  Moscow, Russia)","Distribution of the Galactic Bulge emission at |b|>2deg according to the
+  RXTE Galactic Center scans","6 pages, 7 figures. Accepted for publication in Astronomy &
+  Astrophysics","Astron.Astrophys. 410 (2003) 865-870","10.1051/0004-6361:20031312",,"astro-ph",,"  We present an analysis of the Galactic bulge emission observed by the
+RXTE/PCA during a set of scans over the Galactic Center field, performed in
+1999-2001. The total exposure time of these observations is close to 700 ksec.
+We construct the distribution of Galactic ridge emission intensity and spectral
+parameters up to Galactic latitudes b=-10deg;+9deg. We show that the intensity
+distribution of the ridge emission at |b|>2deg could be well described by an
+exponential model with e-folding width b_0~ 3.3deg. Best-fit spectral
+parameters do not show statistically significant changes over Galactic latitude
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 17:17:41 GMT""},{""version"":""v2"",""created"":""Mon, 25 Aug 2003 11:42:04 GMT""}]","2009-11-07"
+"astro-ph/0304352","Carlos Allende Prieto","C. Allende Prieto (1), T.C. Beers (2), Y. Li (2), H.J. Newberg (3), R.
+  Wilhelm (4), B. Yanny (5) ((1) University of Texas, (2) Michigan State
+  University, (3) Rensselaer Polytechnical Institute, (4) Texas Tech
+  University, (5) Fermi National Accelerator Laboratory)","New Resources to Explore the Old Galaxy: Mining the SDSS","12 pages, 9 figures, to appear in the Carnegie Observatories
+  Astrophysics Series, Vol. 4: Origin and Evolution of the Elements, ed. A.
+  McWilliam and M. Rauch; version with full res. images available at
+  http://hebe.as.utexas.edu/recent_publi.html",,,,"astro-ph",,"  The Sloan Digital Sky Survey (SDSS) is collecting photometry and intermediate
+resolution spectra for ~ 10**5 stars in the thick-disk and stellar halo of the
+Milky Way. This massive dataset can be used to infer the properties of the
+stars that make up these structures, and considerably deepen our vision of the
+old components of the Galaxy. We devise tools for automatic analysis of the
+SDSS photometric and spectroscopic data based on plane-parallel line-blanketed
+LTE model atmospheres and fast optimization algorithms. A preliminary study of
+about 5000 stars in the Early Data Release gives a hint of the vast amount of
+information that the SDSS stellar sample contains.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 22:52:21 GMT""}]","2007-05-23"
+"astro-ph/0304353","Revnivtsev Mikhail","M. Revnivtsev (MPA, Garching, Germany; IKI, Moscow Russia)","RXTE observations of strongly absorbed sources IGR J16318-4848 and IGR
+  J16358-4726","4 pages, 4 figures. Submitted to Astronomy Letters",,"10.1134/1.1615332",,"astro-ph",,"  Results of analysis of RXTE observations of strongly absorbed X-ray sources
+IGR J16318-4848 and IGR J16358-4726 are presented. Careful subtraction of
+Galactic ridge emission contribution to the observed spectra of RXTE/PCA
+allowed us to obtain the spectra of the sources in 3-25 keV energy band.
+Spectra of the sources cold be well described by a power law with
+photoabsorption. It is shown that the value of absorption column in the case of
+RXTE observation of IGR J16318-4848 performed on March 14.1, 2003 is somewhat
+higher that that obtained by XMM observatory on Feb 10.7 2003. This could imply
+that the source has variable absorption, presumably connected with an orbital
+phase of the binary system. It is noted, that all three X-ray sources,
+discovered by INTEGRAL observatory in the sky region of (l,b)~(336,0) (IGR
+J16318-4848, IGR J16320-4751 and IGR J16358-4726) have large intrinsic
+photoabsorption and could be high mass X-ray binaries. This hypothesis has
+indirect support from the fact that their are located close to the Norma spiral
+arm tangent, i.e. in the region of enhanced concentrations of young massive
+stars. If they are reside within this spiral arm some rough estimation of the
+sources distance could be made -- D~6-8 kpc.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 11:53:28 GMT""}]","2009-11-07"
+"cond-mat/0304448","Andrei Lopatin","I.S. Beloborodov, K.B. Efetov, A.V. Lopatin, V.M. Vinokur","Transport properties of granular metals at low temperatures",,"Phys. Rev. Lett. 91, 246801 (2003)","10.1103/PhysRevLett.91.246801",,"cond-mat.mes-hall",,"  We investigate transport in a granular metallic system at large tunneling
+conductance between the grains, $g_T\gg 1$. We show that at low temperatures,
+$T\leq g_T\delta $, where $\delta$ is the single mean energy level spacing in a
+grain, the coherent electron motion at large distances dominates the physics,
+contrary to the high temperature ($T>g_T\delta $) behavior where conductivity
+is controlled by the scales of the order of the grain size. The conductivity of
+one and two dimensional granular metals, in the low temperature regime, decays
+with decreasing temperature in the same manner as that in homogeneous
+disordered metals, indicating thus an insulating behavior. However, even in
+this temperature regime the granular structure remains important and there is
+an additional contribution to conductivity coming from short distances. Due to
+this contribution the metal-insulator transition in three dimensions occurs at
+the value of tunnel conductance $g_T^C=(1/6\pi)\ln (E_C/\delta)$, where $E_C$
+is the charging energy of an isolated grain, and not at the generally expected
+$g_T^C\propto 1$. Corrections to the density of states of granular metals due
+to the electron-electron interaction are calculated. Our results compare
+favorably with the logarithmic dependence of resistivity in the high-$T_c$
+cuprate superconductors indicating that these materials may have a granular
+structure.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 22:50:39 GMT""}]","2009-11-10"
+"cs/0304026","Oded Regev","Irit Dinur, Venkatesan Guruswami, Subhash Khot, Oded Regev","A New Multilayered PCP and the Hardness of Hypergraph Vertex Cover",,,,,"cs.CC",,"  Given a $k$-uniform hyper-graph, the E$k$-Vertex-Cover problem is to find the
+smallest subset of vertices that intersects every hyper-edge. We present a new
+multilayered PCP construction that extends the Raz verifier. This enables us to
+prove that E$k$-Vertex-Cover is NP-hard to approximate within factor
+$(k-1-\epsilon)$ for any $k \geq 3$ and any $\epsilon>0$. The result is
+essentially tight as this problem can be easily approximated within factor $k$.
+Our construction makes use of the biased Long-Code and is analyzed using
+combinatorial properties of $s$-wise $t$-intersecting families of subsets.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 17:59:33 GMT""}]","2007-05-23"
+"gr-qc/0304068","Kirill Bronnikov","K.A. Bronnikov, H. Dehnen and V.N. Melnikov","On a general class of brane-world black holes","9 pages, revtex4","Phys.Rev.D68:024025,2003","10.1103/PhysRevD.68.024025",,"gr-qc",,"  We use the general solution to the trace of the 4-dimensional Einstein
+equations for static, spherically symmetric configurations as a basis for
+finding a general class of black hole (BH) metrics, containing one arbitrary
+function $g_{tt} = A(r)$ which vanishes at some $r = r_h > 0$, the horizon
+radius. Under certain reasonable restrictions, BH metrics are found with or
+without matter and, depending on the boundary conditions, can be asymptotically
+flat or have any other prescribed large $r$ behaviour. It is shown that this
+procedure generically leads to families of solutions unifying non-extremal
+globally regular BHs with a Kerr-like global structure, extremal BHs and
+symmetric wormholes. Horizons in space-times with zero scalar curvature are
+shown to be either simple or double. The same is generically true for horizons
+inside a matter distribution, but in special cases there can be horizons of any
+order. A few simple examples are discussed. A natural application of the above
+results is the brane world concept, in which the trace of the 4D gravity
+equations is the only unambiguous equation for the 4D metric, and its solutions
+can be continued into the 5D bulk according to the embedding theorems.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 19:47:41 GMT""}]","2011-08-03"
+"gr-qc/0304069","Bahram Mashhoon","John C. Hauck and Bahram Mashhoon","Electromagnetic Waves in a Rotating Frame of Reference","LaTeX file, 2 PS figures, 18 pages, a few minor corrections, accepted
+  for publication in Annalen der Physik, in press","Annalen Phys. 12 (2003) 275-288","10.1002/andp.200310011",,"gr-qc astro-ph",,"  We discuss the electromagnetic measurements of rotating observers and study
+the propagation of electromagnetic waves in a uniformly rotating frame of
+reference. The phenomenon of helicity-rotation coupling is elucidated and some
+of the observational consequences of the coupling of the spin of a particle
+with the rotation of a gravitational source are briefly examined.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 00:19:49 GMT""},{""version"":""v2"",""created"":""Wed, 18 Jun 2003 00:20:31 GMT""}]","2009-11-10"
+"gr-qc/0304070","Jose M. Martin-Garcia","Jose M. Martin-Garcia and Carsten Gundlach","Global structure of Choptuik's critical solution in scalar field
+  collapse","28 pages, 25 figures. Version with non-bitmapped figures can be found
+  at http://www.maths.soton.ac.uk/staff/Martin-Garcia/critcont","Phys.Rev. D68 (2003) 024011","10.1103/PhysRevD.68.024011",,"gr-qc",,"  At the threshold of black hole formation in the gravitational collapse of a
+scalar field a naked singularity is formed through a universal critical
+solution that is discretely self-similar. We study the global spacetime
+structure of this solution. It is spherically symmetric, discretely
+self-similar, regular at the center to the past of the singularity, and regular
+at the past lightcone of the singularity. At the future lightcone of the
+singularity, which is also a Cauchy horizon, the curvature is finite and
+continuous but not differentiable. To the future of the Cauchy horizon the
+solution is not unique, but depends on a free function (the null data coming
+out of the naked singularity). There is a unique continuation with a regular
+center (which is self-similar). All other self-similar continuations have a
+central timelike singularity with negative mass.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 10:48:55 GMT""}]","2009-11-10"
+"hep-ph/0304185","Taekoon Lee","Taekoon Lee","Heavy quark mass determination from the quarkonium ground state energy:
+  a pole mass approach","16 pages; published version","JHEP0310:044,2003","10.1088/1126-6708/2003/10/044",,"hep-ph",,"  The heavy quark pole mass in perturbation theory suffers from a renormalon
+caused, inherent uncertainty of $O(\Lambda_{\rm QCD})$. This fundamental
+difficulty of determining the pole mass to an accuracy better than the inherent
+uncertainty can be overcome by direct resummation of the first infrared
+renormalon. We show how a properly defined pole mass as well as the $\bar {\rm
+MS}$ mass for the top and bottom quarks can be determined accurately from the
+$O(m\alpha_s^5)$ quarkonium ground state energy.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 04:34:57 GMT""},{""version"":""v2"",""created"":""Wed, 22 Oct 2003 09:27:48 GMT""},{""version"":""v3"",""created"":""Wed, 5 Nov 2003 06:15:56 GMT""}]","2009-11-10"
+"hep-th/0304167","Frans Klinkhamer","F.R. Klinkhamer, C. Rupp","Sphalerons, spectral flow, and anomalies","35 pages with revtex4; invited paper for the August special issue of
+  JMP on ""Integrability, topological solitons and beyond""","J.Math.Phys. 44 (2003) 3619-3639","10.1063/1.1590420","KA-TP-01-2003","hep-th hep-ph",,"  The topology of configuration space may be responsible in part for the
+existence of sphalerons. Here, sphalerons are defined to be static but unstable
+finite-energy solutions of the classical field equations. Another manifestation
+of the nontrivial topology of configuration space is the phenomenon of spectral
+flow for the eigenvalues of the Dirac Hamiltonian. The spectral flow, in turn,
+is related to the possible existence of anomalies. In this review, the
+interconnection of these topics is illustrated for three particular sphalerons
+of SU(2) Yang-Mills-Higgs theory.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 14:37:13 GMT""},{""version"":""v2"",""created"":""Mon, 7 Jul 2003 15:35:03 GMT""}]","2015-06-26"
+"hep-th/0304168","Damien A. Easson","Damien A. Easson (McGill U.)","Towards a Stringy Resolution of the Cosmological Singularity","6 pages, 2 Figures; minor revisions; references added; REVTeX 4;
+  version to appear in Phys. Rev. D","Phys.Rev. D68 (2003) 043514","10.1103/PhysRevD.68.043514","MCGILL 03-06","hep-th astro-ph gr-qc hep-ph",,"  We study cosmological solutions to the low-energy effective action of
+heterotic string theory including possible leading order $\alpha'$ corrections
+and a potential for the dilaton. We consider the possibility that including
+such stringy corrections can resolve the initial cosmological singularity.
+Since the exact form of these corrections is not known the higher-derivative
+terms are constructed so that they vanish when the metric is de Sitter
+spacetime. The constructed terms are compatible with known restrictions from
+scattering amplitude and string worldsheet beta-function calculations. Analytic
+and numerical techniques are used to construct a singularity-free cosmological
+solution. At late times and low-curvatures the metric is asymptotically
+Minkowski and the dilaton is frozen. In the high-curvature regime the universe
+enters a de Sitter phase.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 22:30:21 GMT""},{""version"":""v2"",""created"":""Thu, 22 May 2003 22:09:35 GMT""},{""version"":""v3"",""created"":""Sun, 6 Jul 2003 13:07:05 GMT""}]","2007-05-23"
+"hep-th/0304169","Mohammad Sheikh-Jabbari","Darius Sadri, M. M. Sheikh-Jabbari","String Theory on Parallelizable PP-Waves","Latex file, no figures, 41 pages; v4: Typos corrected, References
+  added. The version to appear in JHEP","JHEP 0306:005,2003","10.1088/1126-6708/2003/06/005","SU-ITP-03/05, SLAC-PUB-9713","hep-th",,"  The most general parallelizable pp-wave backgrounds which are non-dilatonic
+solutions in the NS-NS sector of type IIA and IIB string theories are
+considered. We demonstrate that parallelizable pp-wave backgrounds are
+necessarily homogeneous plane-waves, and that a large class of homogeneous
+plane-waves are parallelizable, stating the necessary conditions. Such
+plane-waves can be classified according to the number of preserved
+supersymmetries. In type IIA, these include backgrounds preserving 16, 18, 20,
+22 and 24 supercharges, while in the IIB case they preserve 16, 20, 24 or 28
+supercharges. An intriguing property of parallelizable pp-wave backgrounds is
+that the bosonic part of these solutions are invariant under T-duality, while
+the number of supercharges might change under T-duality. Due to their \alpha'
+exactness, they provide interesting backgrounds for studying string theory.
+Quantization of string modes, their compactification and behaviour under
+T-duality are studied. In addition, we consider BPS $Dp$-branes, and show that
+these $Dp$-branes can be classified in terms of the locations of their world
+volumes with respect to the background $H$-field.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 03:23:30 GMT""},{""version"":""v2"",""created"":""Tue, 29 Apr 2003 00:11:37 GMT""},{""version"":""v3"",""created"":""Sat, 10 May 2003 00:10:31 GMT""},{""version"":""v4"",""created"":""Wed, 11 Jun 2003 03:44:29 GMT""}]","2009-11-10"
+"hep-th/0304170","Michael O. Katanaev","M.O. Katanaev (Steklov Mathematical Institute, Moscow)","One-dimensional topologically nontrivial solutions in the Skyrme model","15 pages, 1 ps figure, added references","Theor.Math.Phys. 138 (2004) 163-176; Teor.Mat.Fiz. 138 (2004)
+  193-208","10.1023/B:TAMP.0000014849.37449.21",,"hep-th",,"  We consider the Skyrme model using the explicit parameterization of the
+rotation group SO(3) through elements of its algebra. Topologically nontrivial
+solutions already arise even in the one-dimensional case because the
+fundamental group of SO(3) is Z_2. We explicitly find and analyze
+one-dimensional static solutions. Among them, there are topologically
+nontrivial solutions with finite energy among them. We propose a new class of
+projective models whose target spaces are arbitrary real projective spaces
+RP^d.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 06:43:47 GMT""},{""version"":""v2"",""created"":""Sat, 10 Apr 2004 06:14:36 GMT""}]","2009-11-10"
+"math-ph/0304029","Irina Yehorchenko","Irina Yehorchenko","Differential Invariants and Construction of Conditionally Invariant
+  Equations","8 pages; based on talk at ""Symmetry in Nonlinear Mathematical
+  Physics"", Kiev 2001",,,,"math-ph math.AP math.MP",,"  New concept of conditional differential invariant is discussed that would
+allow description of equations invariant with respect to an operator under a
+certain condition. Example of conditional invariants of the projective operator
+is presented.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 21:25:27 GMT""}]","2007-05-23"
+"math/0304275","Piotr Sniady","Piotr Sniady","Free probability and representations of large symmetric groups","This paper has been withdrawn by the author because preprints
+  math.CO/0301299 and math.CO/0304275 were superceded by the paper
+  math.CO/0411647 (Piotr Sniady, ""Asymptotics of characters of symmetric
+  groups, genus expansion and free probability"". Discrete Math., 306
+  (7):624-665, 2006) which was created later by merging (and editing) these two
+  preprints",,,,"math.CO math.RT",,"  We study the asymptotic behavior of the free cumulants (in the sense of free
+probability theory of Voiculescu) of Jucys--Murphy elements--or
+equivalently--of the transition measure associated with a Young diagram. We
+express these cumulants in terms of normalized characters of the appropriate
+representation of the symmetric group S_q. Our analysis considers the case when
+the Young diagrams rescaled by q^{-1/2} converge towards some prescribed shape.
+We find explicitly the second order asymptotic expansion and outline the
+algorithm which allows to find the asymptotic expansion of any order. As a
+corollary we obtain the second order asymptotic expansion of characters
+evaluated on cycles in terms of free cumulants, i.e. we find explicitly terms
+in Kerov polynomials with the appropriate degree.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 16:24:58 GMT""},{""version"":""v2"",""created"":""Mon, 18 Dec 2006 21:32:47 GMT""}]","2007-05-23"
+"math/0304278","Nicolas Monod","I. Mineyev, N. Monod, Y. Shalom","Ideal bicombings for hyperbolic groups and applications","Substantial generalizeation; now the results hold for a general class
+  of hyperbolic metric spaces (rather than just hyperbolic groups)","Topology 43 No. 6 (2004), 1319--1344","10.1016/j.top.2004.01.008",,"math.GR math.MG",,"  For every hyperbolic group and more general hyperbolic graphs, we construct
+an equivariant ideal bicombing: this is a homological analogue of the geodesic
+flow on negatively curved manifolds. We then construct a cohomological
+invariant which implies that several Measure Equivalence and Orbit Equivalence
+rigidity results established by Monod-Shalom hold for all non-elementary
+hyperbolic groups and their non-elementary subgroups. We also derive
+superrigidity results for actions of general irreducible lattices on a large
+class of hyperbolic metric spaces.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 20:32:22 GMT""},{""version"":""v2"",""created"":""Thu, 15 May 2003 18:40:52 GMT""}]","2012-07-10"
+"math/0304280","Frederic Rochon","Richard Melrose and Frederic Rochon","Families Index for Pseudodifferential Operators on Manifolds with
+  Boundary","21 pages; corrected typos, changed the abstract, added a paragraph in
+  the introduction",,,,"math.DG math.AP",,"  An analytic index is defined for a family of cusp pseudodifferential
+operators, $P_b,$ on a fibration with fibres which are compact manifolds with
+boundaries, provided the family is elliptic and has invertible indicial family
+at the boundary. In fact there is always a perturbation $Q_b$ by a family of
+cusp operators of order $-\infty$ such that each $P_b+Q_b$ is invertible. Thus
+any elliptic family of symbols has a realization as an invertible family of
+cusp pseudodifferential operators, which is a form of the cobordism invariance
+of the index. A crucial role is played by the weak contractibility of the group
+of cusp smoothing operators on a compact manifold with non-trivial boundary and
+the associated exact sequence of classifying spaces of odd and even K-theory.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 00:02:16 GMT""},{""version"":""v2"",""created"":""Mon, 26 May 2003 15:22:11 GMT""},{""version"":""v3"",""created"":""Thu, 20 Nov 2003 15:06:46 GMT""}]","2007-05-23"
+"math/0304281","Daniel Henry Gottlieb","Daniel Henry Gottlieb","Eigenbundles, Quaternions, and Berry's Phase","22 pages, also found on http://math.purdue.edu/~gottlieb",,,,"math.AT cond-mat gr-qc math.SP",,"  Given a parameterized space of square matrices, the associated set of
+eigenvectors forms some kind of a structure over the parameter space. When is
+that structure a vector bundle? When is there a vector field of eigenvectors?
+We answer those questions in terms of three obstructions, using a Homotopy
+Theory approach. We illustrate our obstructions with five examples. One of
+those examples gives rise to a 4 by 4 matrix representation of the Complex
+Quaternions. This representation shows the relationship of the Biquaternions
+with low dimensional Lie groups and algebras, Electro-magnetism, and Relativity
+Theory. The eigenstructure of this representation is very interesting, and our
+choice of notation produces important mathematical expressions found in those
+fields and in Quantum Mechanics. In particular, we show that the Doppler shift
+factor is analogous to Berry's Phase.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 06:28:36 GMT""}]","2007-05-23"
+"math/0304282","Natalia Tsilevich","Anatoly Vershik, Natalia Tsilevich","Fock factorizations, and decompositions of the $L^2$ spaces over general
+  Levy processes","35 pages; LaTeX; to appear in Russian Math. Surveys",,"10.1070/RM2003v058n03ABEH000627",,"math.PR math.OA",,"  We explicitly construct and study an isometry between the spaces of square
+integrable functionals of an arbitrary Levy process and a vector-valued
+Gaussian white noise. In particular, we obtain explicit formulas for this
+isometry at the level of multiplicative functionals and at the level of
+orthogonal decompositions, as well as find its kernel. We consider in detail
+the central special case: the isometry between the $L^2$ spaces over a Poisson
+process and the corresponding white noise. The key role in our considerations
+is played by the notion of measure and Hilbert factorizations and related
+notions of multiplicative and additive functionals and logarithm. The obtained
+results allow us to introduce a canonical Fock structure (an analogue of the
+Wiener--Ito decomposition) in the $L^2$ space over an arbitrary Levy process.
+An application to the representation theory of current groups is considered. An
+example of a non-Fock factorization is given.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 10:56:55 GMT""}]","2015-06-26"
+"nlin/0304040","Vittot","Guido Ciraolo, Cristel Chandre, Ricardo Lima, Michel Vittot, Marco
+  Pettini, Charles Figarella, Philippe Ghendrih","Control of chaotic transport in Hamiltonian systems","Latex2e-Revtex, 4 pages, 6 figures",,,,"nlin.CD math-ph math.MP physics.plasm-ph",,"  It is shown that a relevant control of Hamiltonian chaos is possible through
+suitable small perturbations whose form can be explicitly computed. In
+particular, it is possible to control (reduce) the chaotic diffusion in the
+phase space of a Hamiltonian system with 1.5 degrees of freedom which models
+the diffusion of charged test particles in a ``turbulent'' electric field
+across the confining magnetic field in controlled thermonuclear fusion devices.
+Though still far from practical applications, this result suggests that some
+strategy to control turbulent transport in magnetized plasmas, in particular
+tokamaks, is conceivable.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 22:37:21 GMT""},{""version"":""v2"",""created"":""Sun, 11 May 2003 12:58:58 GMT""},{""version"":""v3"",""created"":""Tue, 24 Jun 2003 14:49:55 GMT""}]","2007-05-23"
+"physics/0304071","Alvaro L.","A. C. Ilarraza-Lomel\'i, R. P. Mart\'inez-y-Romero, H. N.
+  N\'u\~nez-Y\'epez, A. L. Salas-Brito, M. N. Vald\'es-Mart\'inez","Recurrence relations for relativistic two centre matrix elements","12 pages, no figures",,,,"physics.atom-ph",,"  Recursion formulae are derived for the calculation of two centre matrix
+elements of a radial function in relativistic quantum mechanics. The recursions
+are obtained between not necessarily diagonal radial eigensates using arbitrary
+radial potentials and any radial functions. The only restriction is that the
+potentials have to share a common minimum. Among other things, the relations so
+obtained can help in evaluating relativistic corrections to transition
+probabilities between atomic Rydberg states.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 20:41:31 GMT""}]","2007-05-23"
+"physics/0304072","Sergei E. Emelin","S.E. Emelin","Commutation of lightning impulse by multiarc erosive radial-slotted
+  discharge","9 pages, 3 figures",,,,"physics.plasm-ph",,"  The non-stationary mode of radial-slotted erosive discharge was considered.
+The existence condition of the relatively steady multiarc regime has been
+found. Experimentally it has been shown that this discharge has been
+corresponding to the required condition at the sufficiently large current. The
+oscillograms of commutation of lightning impulse on the simulative test
+facility with the equivalent of a high-voltage transmission line are presented.
+The obtained results indicate the ability of erosive discharge, when using
+within the framework of the complex lightning protection facility, to fast
+commutation of lightning impulses at the level of rated current
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 18:57:58 GMT""}]","2007-05-23"
+"physics/0304073","Kevin K. Lehmann","Kevin K. Lehmann","Microcanonical Thermodynamic Properties of Helium Nanodroplets","11 pages, 4 figures, submitted to Journal of Chemical Physics","J. Chem. Phys. 119, 3336-3342 (2003)","10.1063/1.1588991",,"physics.chem-ph physics.atm-clus",,"  The density of states and other thermodynamic functions of helium
+nanodroplets are calculated for a microcanonical ensemble with both energy and
+total angular momentum treated as conserved quantum numbers. These functions
+allow angular momentum conserving evaporative cooling simulations.
+  As part of this project, a recursion relationship is derived for the
+reduction to irreducible representations of the n'th symmetric power of the
+irreducible representations of the rotation group. These give the distribution
+of total angular momentum states generated by putting multiple quanta into a
+ripplon or phonon mode of the droplet, each of which is characterized by a
+angular momentum quantum number.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 14:03:37 GMT""}]","2016-09-08"
+"physics/0304074","Bin Zhou","Han-Ying Guo, Jianzhong Pan, Ke Wu and Bin Zhou","The Euler-Lagrange Cohomology Groups on Symplectic Manifolds","20 pages, no figures",,,,"physics.class-ph",,"  The definition and properties of the Euler-Lagrange cohomology groups
+$H^{2k-1}$, $1 \leqslant k \leqslant n$, on a symplectic manifold $({\cal
+M}^{2n},\omega)$ are given and studied. For $k = 1$ and $k = n$, they are
+isomorphic to the corresponding de Rham cohomology groups $H_{dR}^1({\cal
+M}^{2n})$ and $H_{dR}^{2n-1}({\cal M}^{2n})$, respectively. The other
+Euler-Lagrange cohomology groups are different from either the de Rham
+cohomology groups or the harmonic cohomology groups on $({\cal
+M}^{2n},\omega)$, in general. The general volume-preserving equations on
+$({\cal M}^{2n},\omega)$ are also presented from cohomological point of view.
+In the special cases, these equations become the ordinary canonical equations
+in the Hamilton mechanics. Therefore, the Hamilton mechanics has been
+generalized via the cohomology.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 15:15:51 GMT""}]","2007-05-23"
+"quant-ph/0304134","Farid Benamira","F. Benamira, L. Guechi","Comment on ""Propagator of two coupled general driven time-dependent
+  oscillators"" by C. F. Lo and Y. J.Wong","2 pages, no figures","Europhys. Lett. 60 (2002) 649-650","10.1209/epl/i2002-00267-5",,"quant-ph",,"  We comment on several incorrect results given in a recent paper by Lo and
+Wong. In particular, it is pointed out that their evaluation of the propagator
+for two coupled general driven time-dependent oscillators is not satisfactory.
+The correct expression can be obtained by applying an appropriate
+time-dependent canonical transformation.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 12:40:23 GMT""}]","2009-11-10"
+"quant-ph/0304135","Geoffrey J. Pryde","G. J. Pryde and A. G. White (The University of Queensland, Australia)","Creation of maximally entangled photon-number states using optical fiber
+  multiports","4 pages, 1 figure. REVTeX4. Replaced with published version","Phys.Rev.A68:052315,2003","10.1103/PhysRevA.68.052315",,"quant-ph",,"  We theoretically demonstrate a method for producing the maximally
+path-entangled state (1/Sqrt[2]) (|N,0> + exp[iN phi] |0,N>) using
+intensity-symmetric multiport beamsplitters, single photon inputs, and either
+photon-counting postselection or conditional measurement. The use of
+postselection enables successful implementation with non-unit efficiency
+detectors. We also demonstrate how to make the same state more conveniently by
+replacing one of the single photon inputs by a coherent state.
+","[{""version"":""v1"",""created"":""Sun, 20 Apr 2003 12:14:14 GMT""},{""version"":""v2"",""created"":""Thu, 1 May 2003 13:29:30 GMT""},{""version"":""v3"",""created"":""Wed, 25 Feb 2004 01:38:55 GMT""}]","2008-11-26"
+"quant-ph/0304136","A. C. Manoharan","A. C. Manoharan","Beyond Quantum Computation and Towards Quantum Field Computation","18 pages",,,,"quant-ph",,"  Because the subject of relativistic quantum field theory (QFT) contains all
+of non-relativistic quantum mechanics, we expect quantum field computation to
+contain (non-relativistic) quantum computation. Although we do not yet have a
+quantum theory of the gravitational field, and are far from a practical
+implementation of a quantum field computer, some pieces of the puzzle (without
+gravity) are now available. We consider a general model for computation with
+quantum field theory, and obtain some results for relativistic quantum
+computation. Moreover, it is possible to see new connections between principal
+models of computation, namely, computation over the continuum and computation
+over the integers (Turing computation). Thus we identify a basic problem in
+QFT, namely Wightman's computation problem for domains of holomorphy, which we
+call WHOLO. Inspired by the same analytic functions which are central to the
+famous CPT theorem of QFT, it is possible to obtain a computational complexity
+structure for QFT and shed new light on certain complexity classes for this
+problem WHOLO.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 2003 16:00:35 GMT""}]","2007-05-23"

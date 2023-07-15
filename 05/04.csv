@@ -1,0 +1,227 @@
+"astro-ph/0305046","Helene Roussel","H. Roussel (1), G. Helou (1 and 5), R. Beck (2), J.J. Condon (3), A.
+  Bosma (4), K. Matthews (1) and T.H. Jarrett (5) ((1) Caltech, (2) MPIfR, (3)
+  NRAO, (4) Obs. Marseille, (5) IPAC)","Nascent starbursts in synchrotron-deficient galaxies with hot dust","accepted for publication in ApJ -- 38 pages of text, 8 tables, 12
+  figures (fig. 1, 7 and 10 degraded)","Astrophys.J. 593 (2003) 733-759; Erratum-ibid. 601 (2004) 1160","10.1086/379247",,"astro-ph",,"  Three nearby galaxies which have abnormally high infrared to radio continuum
+ratios, NGC 1377, IC 1953 and NGC 4491, are investigated with a view to
+understanding the physical origin of their peculiarity. We review the existing
+data and present new radio continuum measurements along with near-infrared
+integral-field spectroscopy and molecular gas observations. The three galaxies
+have low luminosities but starburst-like infrared colors; in NGC 1377, no
+synchrotron emission is detected at any wavelength; in IC 1953, the observed
+synchrotron component is attributable to the spiral disk alone, and is lacking
+in the central regions; the radio spectrum of NGC 4491 is unusually flat. We
+also compare and contrast them with NGC 4418, a heavily extinguished galaxy
+which shares some attributes with them. After examining various scenarios, we
+conclude that these galaxies are most likely observed within a few Myr of the
+onset of an intense star formation episode after being quiescent for at least ~
+100 Myr. This starburst, while heating the dust, has not produced optical
+signatures nor a normal amount of cosmic rays yet. We briefly discuss the
+statistics of such galaxies and what they imply for star formation surveys.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 04:00:51 GMT""}]","2009-11-07"
+"astro-ph/0305047","Massimo Meneghetti","Massimo Meneghetti, Matthias Bartelmann, Lauro Moscardini, Elena
+  Rasia, Giuseppe Tormen, Elena Torri","Arc statistics with realistic cluster models","14 pages, 6 figures, to appear in ""Gravitational Lensing: A Unique
+  Tool For Cosmology"", Aussois 2003, eds. D. Valls-Gabaud & J.-P. Kneib",,,,"astro-ph",,"  Arc statistics is known to be a powerful cosmological tool. Numerical lensing
+simulations show that orders of magnitude differences in the number of {\em
+giant} arcs on the whole sky are expected in different cosmological models. In
+this paper, we discuss the analytic and numerical methods in arc statistics and
+show that analytic models fail to reproduce the efficiency for strong lensing
+of more realistic numerical cluster models. Then, we discuss two recent
+extensions of the lensing simulations, i.e. the effects of cD galaxies in the
+lensing clusters and the impact of cluster mergers on arc statistics. We show
+that cD galaxies can increase the lensing cross sections for long and thin arcs
+by perhaps up to $\sim50%$, while major mergers can change the cluster
+efficiency for producing such arcs by up to one order of magnitude.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 10:46:40 GMT""}]","2007-05-23"
+"cond-mat/0305060","Krzysztof Goral","Thorsten Koehler, Krzysztof Goral, and Thomas Gasenzer","Heating and atom loss during upward ramps of Feshbach resonance levels
+  in Bose-Einstein condensates","12 pages, 7 eps figures; final version","Phys. Rev. A 70, 023613 (2004)","10.1103/PhysRevA.70.023613",,"cond-mat.other",,"  The production of pairs of fast atoms leads to a pronounced loss of atoms
+during upward ramps of Feshbach resonance levels in dilute Bose-Einstein
+condensates. We provide comparative studies on the formation of these bursts of
+atoms containing the physical predictions of several theoretical approaches at
+different levels of approximation. We show that despite their very different
+description of the microscopic binary physics during the passage of a Feshbach
+resonance, all approaches lead to virtually the same prediction on the total
+loss of condensate atoms, provided that the ramp of the magnetic field strength
+is purely linear. We give the reasons for this remarkable insensitivity of the
+remnant condensate fraction to the microscopic physical processes and compare
+the theoretical predictions with recent Feshbach resonance crossing experiments
+on 23Na and 85Rb.
+","[{""version"":""v1"",""created"":""Sat, 3 May 2003 16:59:39 GMT""},{""version"":""v2"",""created"":""Mon, 2 Feb 2004 21:19:06 GMT""},{""version"":""v3"",""created"":""Tue, 6 Apr 2004 10:31:10 GMT""},{""version"":""v4"",""created"":""Wed, 18 Aug 2004 19:16:59 GMT""}]","2007-05-23"
+"cond-mat/0305061","Uwe Tauber","Thomas J. Bullard (Virginia Tech), Jayajit Das (UC Berkeley), and Uwe
+  C. Tauber (Virginia Tech)","Dynamics of magnetic flux lines in the presence of correlated disorder","Latex, 10 pages, four eps figures included","In: Trends in Superconductivity Research (P.S. Lewis, ed.) 2004,
+  63",,,"cond-mat.supr-con cond-mat.stat-mech",,"  We investigate the dynamics of interacting magnetic flux lines driven by an
+external current in the presence of linear pinning centers, arranged either in
+a periodic square lattice or placed randomly in space, by means of
+three-dimensional Monte Carlo simulations. Compared to the non-interacting
+case, the repulsive forces between the vortices reduce the critical current
+J_c, as determined from the depinning threshold in the current-voltage (I-V)
+characteristics. Near the depinning current J_c, the voltage power spectrum
+S(w) reveals broad-band noise, characterized by a $1/w^a$ power law decay with
+a <= 2. At larger currents the flux lines move with an average velocity v_{cm}.
+For a periodic arrangement of columnar pins with a lattice constant $d$ and
+just above J_c, distinct peaks appear in the voltage noise spectrum S(w) at w ~
+v_{cm}/d which we interpret as the signature of stick-slip flux line motion.
+","[{""version"":""v1"",""created"":""Sat, 3 May 2003 17:43:13 GMT""}]","2007-05-23"
+"cond-mat/0305062","Amir Hossein Darooneh","Amir H. Darooneh","Non-Life Insurance Pricing : Statistical Mechanics Viewpoint","10 pages, 5 figures",,,,"cond-mat.stat-mech q-fin.PR",,"  We consider the insurance company as a physical system which is immersed in
+its environment (the financial market). The insurer company interacts with the
+market by exchanging the money through the payments for loss claims and
+receiving the premium. Here in the equilibrium state we obtain the premium by
+using the canonical ensemble theory, and compare it with the {\it Esscher}
+principle, the actuaristic well known formula for premium calculation. We
+simulate the case of automobile insurance for quantitative comparison.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 12:18:20 GMT""},{""version"":""v2"",""created"":""Thu, 22 May 2003 13:28:35 GMT""},{""version"":""v3"",""created"":""Fri, 16 Jan 2004 08:13:59 GMT""},{""version"":""v4"",""created"":""Tue, 6 Apr 2004 04:04:09 GMT""}]","2008-12-10"
+"hep-ph/0305034","Geoffrey Bodwin","Geoffrey T. Bodwin and Jungil Lee (Argonne), Ramona Vogt (LBL,
+  UC-Davis)","Inclusive Heavy-Quarkonium Production in Hadronic Collisions","13 pages, cernrep.cls, 9 Postscript figures, to appear in the CERN
+  Yellow Report for the 2001--2002 CERN workshop Hard Probes in Heavy Ion
+  Collisions at the LHC, references corrected and updated, acknowledgments
+  added",,,"ANL-HEP-CP-03-031","hep-ph",,"  We discuss the theory of inclusive production of heavy quarkonium, the
+comparison between theory and experiment, and the expected nuclear effects in
+cold nuclear targets. We also present predictions, based on Nonrelativistic QCD
+(NRQCD), for quarkonium production cross sections in the LHC energy range. We
+find that nuclear effects in the production cross sections are largely
+independent of the sizes of the NRQCD matrix elements, the charmonium state
+that is produced and, in the color-octet case, largely independent of the
+partonic subprocess that produces the heavy quark-antiquark pair.
+","[{""version"":""v1"",""created"":""Sat, 3 May 2003 19:43:07 GMT""},{""version"":""v2"",""created"":""Wed, 21 May 2003 19:42:54 GMT""},{""version"":""v3"",""created"":""Thu, 14 Aug 2003 23:00:43 GMT""}]","2007-05-23"
+"hep-ph/0305036","Charles A. Nelson","Charles A. Nelson","Consequences of a Large Top-Quark Chiral Weak-Moment","Talk presented at ""Les Recontres de la Valle d'Aoste"", March 2003. 12
+  pages, 1 ""ps"" table; version 2 for minor corrections",,,"SUNY BING 4/22/03","hep-ph",,"  This talk concerns some theoretical patterns of the helicity amplitudes for t
+--> W b decay. The patterns involve both the standard model's four decay
+helicity amplitudes, A_{SM}, and also the amplitudes A_{+} in the case of an
+additional t_R --> b_L tensorial coupling of relative strength \Lambda_{+} =E_W
+/2 = 53 GeV. Such an additional electroweak coupling would arise if the
+observed top-quark has a large chiral weak-transition-moment. The A_{+}
+amplitudes are interpreted as corresponding to the observed top-quark decays.
+Three tWb-transformations A_{+}=M A_{SM}, ..., are used in simple
+characterization of the values of \Lambda_{+}, and of the mass ratios m_W/m_t,
+and m_b/m_t. Measurement of the sign of the \eta_L = +/- 0.46 helicity
+parameter, respectively for SM/+, due to the large interference between the
+W-longitudinal and W-transverse amplitudes, could exclude such a chiral
+weak-transition-moment in favor of the SM prediction.
+","[{""version"":""v1"",""created"":""Sat, 3 May 2003 20:54:06 GMT""},{""version"":""v2"",""created"":""Mon, 19 May 2003 17:42:25 GMT""}]","2007-05-23"
+"hep-ph/0305037","Alexander Dorokhov","A.E. Dorokhov, W. Broniowski","Vector and axial-vector correlators in a nonlocal chiral quark model","24 pages, 14 figures, LaTex (revised version)","Eur.Phys.J. C32 (2003) 79-96","10.1140/epjc/s2003-01386-x",,"hep-ph",,"  The behavior of nonperturbative parts of the isovector-vector and isovector
+and isosinglet axial-vector correlators at Euclidean momenta is studied in the
+framework of a covariant chiral quark model with nonlocal quark-quark
+interactions. The gauge covariance is ensured with the help of the P-exponents,
+with the corresponding modification of the quark-current interaction vertices
+taken into account. The low- and high-momentum behavior of the correlators is
+compared with the chiral perturbation theory and with the QCD operator product
+expansion, respectively. The V-A combination of the correlators obtained in the
+model reproduces quantitatively the ALEPH data on hadronic \tau decays,
+transformed into the Euclidean domain via dispersion relations. The predictions
+for the electromagnetic \pi^\pm - \pi^0 mass difference and for the pion
+electric polarizability are also in agreement with the experimental values. The
+topological susceptibility of the vacuum is evaluated as a function of the
+momentum, and its first moment is predicted to be \chi'(0)\approx (50 MeV)^2.
+In addition, the fulfillment of the Crewther theorem is demonstrated.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 12:55:08 GMT""},{""version"":""v2"",""created"":""Tue, 30 Sep 2003 08:44:14 GMT""}]","2009-11-10"
+"math-ph/0305006","Shigeki Matsutani","Shigeki Matsutani","On an Algebraic Essential of Submanifold Quantum Mechanics","9 pages, to appear in J. Geom. Symmetry Phys",,,,"math-ph math.DG math.MP",,"  The submanifold quantum mechanics was opened by Jensen and Koppe (Ann. Phys.
+{\bf 63} (1971) 586-591) and has been studied for these three decades. This
+article gives its more algebraic definition and show what is the essential of
+the submanifold quantum mechanics from an algebraic viewpoint.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 11:45:39 GMT""},{""version"":""v2"",""created"":""Sun, 14 Sep 2003 00:46:56 GMT""}]","2007-05-23"
+"math-ph/0305007","Shigeki Matsutani","Shigeki Matsutani","Submanifold Dirac Operator with Torsion","16 pages",,,,"math-ph math.DG math.MP",,"  The submanifold Dirac operator has been studied for this decade, which is
+closely related to Frenet-Serret and generalized Weierstrass relations. In this
+article, we will give a submanifold Dirac operator defined over a surface
+immersed in $\EE^4$ with U(1)-gauge field as torsion in the sense of the
+Frenet-Serret relation, which also has data of immersion of the surface in
+$\EE^4$.s
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 11:48:10 GMT""},{""version"":""v2"",""created"":""Sun, 14 Sep 2003 00:17:42 GMT""}]","2007-05-23"
+"math-ph/0305008","Shigeki Matsutani","Shigeki Matsutani","Toda Equations and $\sigma$-Functions of Genera One and Two","16 pages",,"10.2991/jnmp.2003.10.4.8",,"math-ph math.AG math.MP",,"  We study the Toda equations in the continuous level, discrete level and
+ultradiscrete level in terms of elliptic and hyperelliptic $\sigma$ and $\psi$
+functions of genera one and two. The ultradiscrete Toda equation appears as a
+discrete-valuation of recursion relations of $\psi$ functions.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 12:03:07 GMT""}]","2015-06-26"
+"math/0305059","S. Satheesh","S. Satheesh and N. U. Nair (Cochin University of Science and
+  Technology, India)","A Note on Maximum and Minimum Stability of Certain Distributions","4 pages, presented at the National Seminar on Probability Models and
+  Applied Statistics, University of Calicut, February-2000","Calcutta Statistical Association Bulletin, 53, Sept. & Dec. 2002,
+  p. 249 - 252",,,"math.PR math.ST stat.TH",,"  In the context of stability of the extremes of a random variable X with
+respect to a positive integer valued random variable N we discuss the cases (i)
+X is exponential (ii) non-geometric laws for N (iii) identifying N for the
+stability of a given X and (iv) extending the notion to a discrete random
+variable X.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 03:02:38 GMT""}]","2007-06-13"
+"math/0305060","S. Satheesh","S. Satheesh and N. Unnikrishnan Nair (Cochin University of Science and
+  Technology, Cochin, India.)","On the Stability of Geometric Extremes","11 pages, in the published journal format, presented at the
+  International Conference on Order Statistics and Extreme Values: Theory and
+  Applications, December 18-20, 2000, University of Mysore, India","Journal of the Indian Statistical Association, Vol.42, 1, 2004, 99
+  - 109",,,"math.PR math.ST stat.TH",,"  Possible reasons for the uniqueness of the positive geometric law in the
+context of stability of random extremes are explored here culminating in a
+conjecture characterizing the geometric law. Our reasoning comes closer in
+justifying the geometric law in similar contexts discussed in Arnold et al.
+(1986) and Marshall & Olkin (1997) and also supplement their arguments.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 04:07:56 GMT""},{""version"":""v2"",""created"":""Thu, 14 Apr 2005 17:25:25 GMT""}]","2007-06-13"
+"math/0305061","Bozhidar Zakhariev Iliev","Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+  Bulgarian Academy of Sciences, Sofia, Bulgaria)","Special bases for derivations of tensor algebras. III. Case along smooth
+  maps with separable points of selfintersection","10 LaTeX pages. This paper is a continuation of the e-Prints
+  math.DG/0303373 and math.DG/0304157 and is a preliminary version of the
+  e-Print gr-qc/9805088. For related papers, visit the ""publication"" pages at
+  http://theo.inrne.bas.bg/~bozho/","Communication JINR, E5-92-543, Dubna, 1992",,,"math.DG gr-qc math-ph math.MP",,"  Necessary and/or sufficient conditions are studied for the existence,
+uniqueness and holonomicity of bases in which on sufficiently general subsets
+of a differentiable manifold the components of derivations of the tensor
+algebra over it vanish. The linear connections and the equivalence principle
+are considered form that point of view.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 09:25:41 GMT""}]","2007-05-23"
+"math/0305062","Valerio Toledano Laredo","J. J. Millson and V. Toledano-Laredo","Casimir Operators and Monodromy Representations of Generalised Braid
+  Groups","43 pages, no figures. Substantially revised, to appear in
+  Transformation Groups. Exposition in sections 3,4,5 and 8 improved. Material
+  in sections 6 and 7 on the representations of the Casimir algebra of so(2n),
+  so(2n+1) and sp(2n) has been removed and will appear in a future publication","Tranform. Groups 10 (2005), 217-254",,,"math.QA math.DG math.RT",,"  Let g be a complex, simple Lie algebra with Cartan subalgebra h and Weyl
+group W. We construct a one-parameter family of flat connections D on h with
+values in any finite-dimensional h-module V and simple poles on the root
+hyperplanes. The corresponding monodromy representation of the braid group B of
+type g is a deformation of the action of (a finite extension of) W on V. The
+residues of D are the Casimirs of the sl(2)-subalgebras of g corresponding to
+its roots. The irreducibility of a subspace U of V under these implies that,
+for generic values of the parameter, the braid group B acts irreducibly on U.
+Answering a question of Knutson and Procesi, we show that these Casimirs act
+irreducibly on the weight spaces of all simple g-modules if g is sl(3) but that
+this is not the case if g is not isomorphic to sl(2) or sl(3). We use this to
+disprove a conjecture of Kwon and Lusztig stating the irreducibility of quantum
+Weyl group actions of Artin's braid group B_n on the zero weight spaces of all
+simple U_{q}sl(n)-modules for n greater or equal to 4. Finally, we study the
+irreducibility of the action of the Casimirs on the zero weight spaces of
+self-dual g-modules and obtain complete classification results for g=sl(n) or
+g(2).
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 11:32:06 GMT""},{""version"":""v2"",""created"":""Wed, 1 Sep 2004 15:30:31 GMT""}]","2009-09-29"
+"math/0305063","Helga Baum","Helga Baum and Felipe Leitner","The twistor equation in Lorentzian spin geometry","20 pages",,,,"math.DG",,"  In this paper we discuss the twistor equation in Lorentzian spin geometry. In
+particular, we explain the local conformal structure of Lorentzian manifolds,
+which admit twistor spinors inducing lightlike Dirac currents. Furthermore, we
+derive all local geometries with singularity free twistor spinors that occur up
+to dimension 7.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 13:04:37 GMT""}]","2007-05-23"
+"math/0305064","Jasper Scholten","Irene I. Bouw, Claus Diem, Jasper Scholten","Ordinary elliptic curves of high rank over $\bar F_p(x)$ with constant
+  j-invariant","15 pages, 0 figures, LaTeX",,,,"math.NT math.AG",,"  We show that under the assumption of Artin's Primitive Root Conjecture, for
+all primes p there exist ordinary elliptic curves over $\bar F_p(x)$ with
+arbitrary high rank and constant j-invariant. For odd primes p, this result
+follows from a theorem which states that whenever p is a generator of (Z/ell
+Z)^*/<-1> (ell an odd prime) there exists a hyperelliptic curve over $\bar F_p$
+whose Jacobian is isogenous to a power of one ordinary elliptic curve.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 14:28:42 GMT""}]","2007-05-23"
+"math/0305065","Robert Gilman","Robert H. Gilman","Automatic Quotients of Free Groups","14 pages, no figures. Minor corrections. Statements of theorems and
+  lemmas are unchanged",,,,"math.GR",,"  Automatic groups admitting prefix closed automatic structures with uniqueness
+are characterized as the quotients of free groups by normal subgroups
+possessing sets of free generators satisfying certain language-theoretic
+conditions.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 15:02:58 GMT""},{""version"":""v2"",""created"":""Sat, 29 Jan 2005 14:10:24 GMT""},{""version"":""v3"",""created"":""Sun, 20 Mar 2005 22:06:34 GMT""}]","2007-05-23"
+"physics/0305010","Eric Altschuler","Eric Lewin Altschuler and William Jansen","First Description of Discrete Stars Composing the Milk Way in Thomas
+  Watson's Hekatompathia (1582)",,,,,"physics.hist-ph",,"  We note that the first unambiguous description of the Milk Way as being
+composed of a large number of discrete stars is in Sonnet 31 of Thomas Watson's
+(d 1592) Hekatompathia (1582), nearly 30 years before Galileo's description. We
+discuss implications of this early description.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 07:46:58 GMT""}]","2007-05-23"
+"physics/0305012","Iwo Bialynicki-Birula","Iwo Bialynicki-Birula and Zofia Bialynicka-Birula","Vortex lines of the electromagnetic field","11 pages, 6 figures, to be published in Phys. Rev. A","Phys. Rev. A 67, 062114 (2003)","10.1103/PhysRevA.67.062114",,"physics.class-ph physics.gen-ph",,"  Relativistic definition of the phase of the electromagnetic field, involving
+two Lorentz invariants, based on the Riemann-Silberstein vector is adopted to
+extend our previous study [I. Bialynicki-Birula, Z. Bialynicka-Birula and C.
+Sliwa, Phys. Rev. A 61, 032110 (2000)] of the motion of vortex lines embedded
+in the solutions of wave equations from Schroedinger wave mechanics to Maxwell
+theory. It is shown that time evolution of vortex lines has universal features;
+in Maxwell theory it is very similar to that in Schroedinger wave mechanics.
+Connection with some early work on geometrodynamics is established. Simple
+examples of solutions of Maxwell equations with embedded vortex lines are
+given. Vortex lines in Laguerre-Gaussian beams are treated in some detail.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 14:44:31 GMT""}]","2009-11-10"
+"quant-ph/0305014","Ru-Fen Liu","Ru-Fen Liu and Chia-Chu Chen","Generation and Evolution of Spin Entanglement in NRQED","8 pages, 1 figure, to appear in Phys. Rev. A","PRA, 68, 044302 (2003)","10.1103/PhysRevA.68.044302",,"quant-ph",,"  A complete analysis on the generation of spin entanglement from NRQED is
+presented. The results of entanglement are obtained with relativistic
+correction to the leading order of (v/c)^2. It is shown that to this order the
+degree of entanglement of a singlet state does not change under time evolution
+whereas the triplet state can change.
+","[{""version"":""v1"",""created"":""Sun, 4 May 2003 07:42:16 GMT""},{""version"":""v2"",""created"":""Thu, 8 May 2003 05:54:16 GMT""},{""version"":""v3"",""created"":""Sun, 7 Sep 2003 08:36:54 GMT""}]","2007-05-23"
